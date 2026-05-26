@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { LayoutGrid, Table2 } from 'lucide-react'
+import { LayoutGrid, Table2, Download } from 'lucide-react'
 import type { PeptideListItem, ActiveFilters } from '@/types'
 import PeptideCard from './PeptideCard'
 import PeptideTable from './PeptideTable'
@@ -12,6 +12,41 @@ import { useFuseSearch } from '@/hooks/useFuseSearch'
 interface Props {
   peptides: PeptideListItem[]
   allPurposes: string[]
+}
+
+function escapeCSV(value: unknown): string {
+  const str = Array.isArray(value) ? value.join('; ') : String(value ?? '')
+  return str.includes(',') || str.includes('"') || str.includes('\n')
+    ? `"${str.replace(/"/g, '""')}"`
+    : str
+}
+
+function downloadCSV(rows: PeptideListItem[]) {
+  const headers = [
+    'Name', 'Slug', 'Category', 'Status', 'Aliases', 'Purpose',
+    'Route', 'Half-Life', 'Molecular Weight', 'Safety Rating',
+    'Performance Rating', 'Requires Rx', 'WADA Ban', 'Sports Ban',
+    'Brands', 'Producer', 'Summary',
+  ]
+  const csvRows = rows.map(p => [
+    p.name, p.slug, p.category, p.status,
+    p.aliases.join('; '), p.purpose.join('; '),
+    p.route ?? '', p.halfLife ?? '', p.molecularWeight ?? '',
+    p.safetyRating, p.performanceRating,
+    p.requiresRx ? 'Yes' : 'No',
+    p.sportsBan ? 'Yes' : 'No',
+    p.sportsBan ? 'Yes' : 'No',
+    p.brands.join('; '), p.producer, p.summary,
+  ].map(escapeCSV).join(','))
+
+  const csv = [headers.join(','), ...csvRows].join('\n')
+  const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  a.download = `peptidedb-${rows.length}-compounds.csv`
+  a.click()
+  URL.revokeObjectURL(url)
 }
 
 export default function PeptideGrid({ peptides, allPurposes }: Props) {
@@ -56,6 +91,14 @@ export default function PeptideGrid({ peptides, allPurposes }: Props) {
             <Table2 size={16} />
           </button>
         </div>
+        <button
+          onClick={() => downloadCSV(filtered)}
+          title={`Download ${filtered.length} compounds as CSV`}
+          className="flex items-center gap-1.5 px-3 py-2 text-sm text-gray-600 border border-gray-200 rounded-lg bg-white hover:bg-gray-50 transition-colors shrink-0"
+        >
+          <Download size={14} />
+          <span className="hidden sm:inline">CSV</span>
+        </button>
       </div>
       <FilterBar filters={filters} allPurposes={allPurposes} onChange={setFilters} resultCount={filtered.length} />
 
