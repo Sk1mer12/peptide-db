@@ -16,6 +16,9 @@ export default function SiteHeader() {
           <Link href="/news" className="hover:text-gray-900 transition-colors">
             News
           </Link>
+          <Link href="/api-docs" className="hover:text-gray-900 transition-colors">
+            API
+          </Link>
         </nav>
       </div>
     </header>
