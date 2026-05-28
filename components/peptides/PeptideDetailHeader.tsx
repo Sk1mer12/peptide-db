@@ -11,7 +11,13 @@ export default function PeptideDetailHeader({ peptide }: Props) {
   return (
     <div className="border-b border-gray-200 pb-6 mb-6">
       <div className="flex gap-6 items-start flex-wrap">
-        <PeptideImage name={peptide.name} pubchemCid={peptide.pubchemCid} size="lg" />
+        <PeptideImage
+          name={peptide.name}
+          pubchemCid={peptide.pubchemCid}
+          sequence={peptide.sequence}
+          molecularWeight={peptide.molecularWeight}
+          size="lg"
+        />
         <div className="flex-1 min-w-0">
           <div className="flex items-start justify-between gap-4 flex-wrap mb-2">
             <div>

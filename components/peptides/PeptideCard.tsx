@@ -13,7 +13,12 @@ export default function PeptideCard({ peptide }: Props) {
   return (
     <div className="border border-gray-200 rounded-lg bg-white p-4 flex flex-col gap-3 hover:border-gray-300 transition-colors">
       <div className="flex gap-3">
-        <PeptideImage name={peptide.name} pubchemCid={peptide.pubchemCid} size="sm" />
+        <PeptideImage
+          name={peptide.name}
+          pubchemCid={peptide.pubchemCid}
+          molecularWeight={peptide.molecularWeight}
+          size="sm"
+        />
         <div className="flex flex-col gap-1 min-w-0">
           <div className="flex items-start justify-between gap-2">
             <Link

@@ -1,0 +1,854 @@
+{
+  "matched": [
+    {
+      "slug": "abaloparatide",
+      "file": "approved-rx/abaloparatide.mdx",
+      "name": "Abaloparatide",
+      "matchedName": "Abaloparatide",
+      "cid": 76943386
+    },
+    {
+      "slug": "afamelanotide",
+      "file": "approved-rx/afamelanotide.mdx",
+      "name": "Afamelanotide",
+      "matchedName": "Afamelanotide",
+      "cid": 16197727
+    },
+    {
+      "slug": "angiotensin-ii",
+      "file": "approved-rx/angiotensin-ii.mdx",
+      "name": "Angiotensin II",
+      "matchedName": "Angiotensin II",
+      "cid": 172198
+    },
+    {
+      "slug": "bivalirudin",
+      "file": "approved-rx/bivalirudin.mdx",
+      "name": "Bivalirudin",
+      "matchedName": "Bivalirudin",
+      "cid": 16129704
+    },
+    {
+      "slug": "bremelanotide",
+      "file": "approved-rx/bremelanotide.mdx",
+      "name": "Bremelanotide",
+      "matchedName": "Bremelanotide",
+      "cid": 9941379
+    },
+    {
+      "slug": "calcitonin-salmon",
+      "file": "approved-rx/calcitonin.mdx",
+      "name": "Calcitonin Salmon",
+      "matchedName": "Calcitonin Salmon",
+      "cid": 16220016
+    },
+    {
+      "slug": "carfilzomib",
+      "file": "approved-rx/carfilzomib.mdx",
+      "name": "Carfilzomib",
+      "matchedName": "Carfilzomib",
+      "cid": 11556711
+    },
+    {
+      "slug": "cetrorelix",
+      "file": "approved-rx/cetrorelix.mdx",
+      "name": "Cetrorelix",
+      "matchedName": "Cetrorelix",
+      "cid": 25074887
+    },
+    {
+      "slug": "cosyntropin",
+      "file": "approved-rx/cosyntropin.mdx",
+      "name": "Cosyntropin",
+      "matchedName": "Cosyntropin",
+      "cid": 16129617
+    },
+    {
+      "slug": "cyclosporine",
+      "file": "approved-rx/cyclosporine.mdx",
+      "name": "Cyclosporine",
+      "matchedName": "Cyclosporine",
+      "cid": 5284373
+    },
+    {
+      "slug": "degarelix",
+      "file": "approved-rx/degarelix.mdx",
+      "name": "Degarelix",
+      "matchedName": "Degarelix",
+      "cid": 16136245
+    },
+    {
+      "slug": "desmopressin",
+      "file": "approved-rx/desmopressin.mdx",
+      "name": "Desmopressin",
+      "matchedName": "Desmopressin",
+      "cid": 5311065
+    },
+    {
+      "slug": "enfuvirtide",
+      "file": "approved-rx/enfuvirtide.mdx",
+      "name": "Enfuvirtide",
+      "matchedName": "Enfuvirtide",
+      "cid": 16130199
+    },
+    {
+      "slug": "eptifibatide",
+      "file": "approved-rx/eptifibatide.mdx",
+      "name": "Eptifibatide",
+      "matchedName": "Eptifibatide",
+      "cid": 448812
+    },
+    {
+      "slug": "etelcalcetide",
+      "file": "approved-rx/etelcalcetide.mdx",
+      "name": "Etelcalcetide",
+      "matchedName": "Etelcalcetide",
+      "cid": 71511839
+    },
+    {
+      "slug": "exenatide",
+      "file": "approved-rx/exenatide.mdx",
+      "name": "Exenatide",
+      "matchedName": "Exenatide",
+      "cid": 45588096
+    },
+    {
+      "slug": "ganirelix",
+      "file": "approved-rx/ganirelix.mdx",
+      "name": "Ganirelix",
+      "matchedName": "Ganirelix",
+      "cid": 16130957
+    },
+    {
+      "slug": "glucagon",
+      "file": "approved-rx/glucagon.mdx",
+      "name": "Glucagon",
+      "matchedName": "Glucagon",
+      "cid": 16132283
+    },
+    {
+      "slug": "goserelin",
+      "file": "approved-rx/goserelin.mdx",
+      "name": "Goserelin",
+      "matchedName": "Goserelin",
+      "cid": 5311128
+    },
+    {
+      "slug": "histrelin",
+      "file": "approved-rx/histrelin.mdx",
+      "name": "Histrelin",
+      "matchedName": "Histrelin",
+      "cid": 25077993
+    },
+    {
+      "slug": "icatibant",
+      "file": "approved-rx/icatibant.mdx",
+      "name": "Icatibant",
+      "matchedName": "Icatibant",
+      "cid": 6918173
+    },
+    {
+      "slug": "lanreotide",
+      "file": "approved-rx/lanreotide.mdx",
+      "name": "Lanreotide",
+      "matchedName": "Lanreotide",
+      "cid": 6918011
+    },
+    {
+      "slug": "leuprolide",
+      "file": "approved-rx/leuprolide.mdx",
+      "name": "Leuprolide",
+      "matchedName": "Leuprolide",
+      "cid": 657181
+    },
+    {
+      "slug": "linaclotide",
+      "file": "approved-rx/linaclotide.mdx",
+      "name": "Linaclotide",
+      "matchedName": "Linaclotide",
+      "cid": 16158208
+    },
+    {
+      "slug": "liraglutide",
+      "file": "approved-rx/liraglutide.mdx",
+      "name": "Liraglutide",
+      "matchedName": "Liraglutide",
+      "cid": 16134956
+    },
+    {
+      "slug": "nafarelin",
+      "file": "approved-rx/nafarelin.mdx",
+      "name": "Nafarelin",
+      "matchedName": "Nafarelin",
+      "cid": 25077405
+    },
+    {
+      "slug": "nesiritide",
+      "file": "approved-rx/nesiritide.mdx",
+      "name": "Nesiritide",
+      "matchedName": "Nesiritide",
+      "cid": 71308561
+    },
+    {
+      "slug": "octreotide",
+      "file": "approved-rx/octreotide.mdx",
+      "name": "Octreotide",
+      "matchedName": "Octreotide",
+      "cid": 448601
+    },
+    {
+      "slug": "oxytocin",
+      "file": "approved-rx/oxytocin.mdx",
+      "name": "Oxytocin",
+      "matchedName": "Oxytocin",
+      "cid": 439302
+    },
+    {
+      "slug": "pasireotide",
+      "file": "approved-rx/pasireotide.mdx",
+      "name": "Pasireotide",
+      "matchedName": "Pasireotide",
+      "cid": 9941444
+    },
+    {
+      "slug": "plecanatide",
+      "file": "approved-rx/plecanatide.mdx",
+      "name": "Plecanatide",
+      "matchedName": "Plecanatide",
+      "cid": 70693500
+    },
+    {
+      "slug": "pramlintide",
+      "file": "approved-rx/pramlintide.mdx",
+      "name": "Pramlintide",
+      "matchedName": "Pramlintide",
+      "cid": 70691388
+    },
+    {
+      "slug": "relugolix",
+      "file": "approved-rx/relugolix.mdx",
+      "name": "Relugolix",
+      "matchedName": "Relugolix",
+      "cid": 10348973
+    },
+    {
+      "slug": "romidepsin",
+      "file": "approved-rx/romidepsin.mdx",
+      "name": "Romidepsin",
+      "matchedName": "Romidepsin",
+      "cid": 5352062
+    },
+    {
+      "slug": "semaglutide",
+      "file": "approved-rx/semaglutide.mdx",
+      "name": "Semaglutide",
+      "matchedName": "Semaglutide",
+      "cid": 56843331
+    },
+    {
+      "slug": "setmelanotide",
+      "file": "approved-rx/setmelanotide.mdx",
+      "name": "Setmelanotide",
+      "matchedName": "Setmelanotide",
+      "cid": 11993702
+    },
+    {
+      "slug": "sincalide",
+      "file": "approved-rx/sincalide.mdx",
+      "name": "Sincalide",
+      "matchedName": "Sincalide",
+      "cid": 9833444
+    },
+    {
+      "slug": "teduglutide",
+      "file": "approved-rx/teduglutide.mdx",
+      "name": "Teduglutide",
+      "matchedName": "Teduglutide",
+      "cid": 16139605
+    },
+    {
+      "slug": "teriparatide",
+      "file": "approved-rx/teriparatide.mdx",
+      "name": "Teriparatide",
+      "matchedName": "Teriparatide",
+      "cid": 16133850
+    },
+    {
+      "slug": "terlipressin",
+      "file": "approved-rx/terlipressin.mdx",
+      "name": "Terlipressin",
+      "matchedName": "Terlipressin",
+      "cid": 72081
+    },
+    {
+      "slug": "tesamorelin",
+      "file": "approved-rx/tesamorelin.mdx",
+      "name": "Tesamorelin",
+      "matchedName": "Tesamorelin",
+      "cid": 16137828
+    },
+    {
+      "slug": "tirzepatide",
+      "file": "approved-rx/tirzepatide.mdx",
+      "name": "Tirzepatide",
+      "matchedName": "Tirzepatide",
+      "cid": 166567236
+    },
+    {
+      "slug": "triptorelin",
+      "file": "approved-rx/triptorelin.mdx",
+      "name": "Triptorelin",
+      "matchedName": "Triptorelin",
+      "cid": 25074470
+    },
+    {
+      "slug": "vasopressin",
+      "file": "approved-rx/vasopressin.mdx",
+      "name": "Vasopressin",
+      "matchedName": "Vasostrict",
+      "cid": 11979316
+    },
+    {
+      "slug": "voclosporin",
+      "file": "approved-rx/voclosporin.mdx",
+      "name": "Voclosporin",
+      "matchedName": "Voclosporin",
+      "cid": 6918486
+    },
+    {
+      "slug": "vosoritide",
+      "file": "approved-rx/vosoritide.mdx",
+      "name": "Vosoritide",
+      "matchedName": "Vosoritide",
+      "cid": 119058036
+    },
+    {
+      "slug": "zilucoplan",
+      "file": "approved-rx/zilucoplan.mdx",
+      "name": "Zilucoplan",
+      "matchedName": "Zilucoplan",
+      "cid": 133083018
+    },
+    {
+      "slug": "aviptadil",
+      "file": "investigational/aviptadil.mdx",
+      "name": "Aviptadil",
+      "matchedName": "Aviptadil",
+      "cid": 16132300
+    },
+    {
+      "slug": "cagrilintide",
+      "file": "investigational/cagrilintide.mdx",
+      "name": "Cagrilintide",
+      "matchedName": "Cagrilintide",
+      "cid": 171397054
+    },
+    {
+      "slug": "elamipretide",
+      "file": "investigational/elamipretide.mdx",
+      "name": "Elamipretide",
+      "matchedName": "Elamipretide",
+      "cid": 11764719
+    },
+    {
+      "slug": "mazdutide",
+      "file": "investigational/mazdutide.mdx",
+      "name": "Mazdutide",
+      "matchedName": "Mazdutide",
+      "cid": 167312357
+    },
+    {
+      "slug": "survodutide",
+      "file": "investigational/survodutide.mdx",
+      "name": "Survodutide",
+      "matchedName": "Survodutide",
+      "cid": 171378821
+    },
+    {
+      "slug": "5-amino-1mq",
+      "file": "grey-market/5-amino-1mq.mdx",
+      "name": "5-Amino-1MQ",
+      "matchedName": "5-amino-1-methylquinolinium",
+      "cid": 950107
+    },
+    {
+      "slug": "aod-9604",
+      "file": "grey-market/aod-9604.mdx",
+      "name": "AOD-9604",
+      "matchedName": "AOD-9604",
+      "cid": 71300630
+    },
+    {
+      "slug": "ara-290",
+      "file": "grey-market/ara-290.mdx",
+      "name": "ARA-290",
+      "matchedName": "ARA-290",
+      "cid": 91810664
+    },
+    {
+      "slug": "argireline",
+      "file": "grey-market/argireline.mdx",
+      "name": "Argireline (Acetyl Hexapeptide-3)",
+      "matchedName": "Acetyl Hexapeptide-3",
+      "cid": 71587772
+    },
+    {
+      "slug": "bpc-157",
+      "file": "grey-market/bpc-157.mdx",
+      "name": "BPC-157",
+      "matchedName": "BPC-157",
+      "cid": 9941957
+    },
+    {
+      "slug": "buserelin",
+      "file": "grey-market/buserelin.mdx",
+      "name": "Buserelin",
+      "matchedName": "Buserelin",
+      "cid": 50225
+    },
+    {
+      "slug": "chonluten",
+      "file": "grey-market/chonluten.mdx",
+      "name": "Chonluten",
+      "matchedName": "Gly-Glu-Pro",
+      "cid": 145455622
+    },
+    {
+      "slug": "cjc-1295",
+      "file": "grey-market/cjc-1295.mdx",
+      "name": "CJC-1295",
+      "matchedName": "CJC-1295",
+      "cid": 91971820
+    },
+    {
+      "slug": "cortistatin",
+      "file": "grey-market/cortistatin.mdx",
+      "name": "Cortistatin",
+      "matchedName": "Cortistatin",
+      "cid": 16133803
+    },
+    {
+      "slug": "dihexa",
+      "file": "grey-market/dihexa.mdx",
+      "name": "Dihexa",
+      "matchedName": "Dihexa",
+      "cid": 129010512
+    },
+    {
+      "slug": "dsip",
+      "file": "grey-market/dsip.mdx",
+      "name": "DSIP",
+      "matchedName": "DSIP",
+      "cid": 68816
+    },
+    {
+      "slug": "epitalon",
+      "file": "grey-market/epitalon.mdx",
+      "name": "Epitalon",
+      "matchedName": "Epitalon",
+      "cid": 219042
+    },
+    {
+      "slug": "foxo4-dri",
+      "file": "grey-market/foxo4-dri.mdx",
+      "name": "FOXO4-DRI",
+      "matchedName": "FOXO4-DRI",
+      "cid": 167312269
+    },
+    {
+      "slug": "ghk-cu",
+      "file": "grey-market/ghk-cu.mdx",
+      "name": "GHK-Cu",
+      "matchedName": "GHK-Cu",
+      "cid": 139035031
+    },
+    {
+      "slug": "ghk",
+      "file": "grey-market/ghk.mdx",
+      "name": "GHK (Glycyl-L-Histidyl-L-Lysine)",
+      "matchedName": "Gly-His-Lys",
+      "cid": 73587
+    },
+    {
+      "slug": "ghrp-2",
+      "file": "grey-market/ghrp-2.mdx",
+      "name": "GHRP-2",
+      "matchedName": "GHRP-2",
+      "cid": 6918245
+    },
+    {
+      "slug": "ghrp-6",
+      "file": "grey-market/ghrp-6.mdx",
+      "name": "GHRP-6",
+      "matchedName": "GHRP-6",
+      "cid": 4345065
+    },
+    {
+      "slug": "gonadorelin",
+      "file": "grey-market/gonadorelin.mdx",
+      "name": "Gonadorelin",
+      "matchedName": "Gonadorelin",
+      "cid": 638793
+    },
+    {
+      "slug": "hexarelin",
+      "file": "grey-market/hexarelin.mdx",
+      "name": "Hexarelin",
+      "matchedName": "Hexarelin",
+      "cid": 6918297
+    },
+    {
+      "slug": "humanin",
+      "file": "grey-market/humanin.mdx",
+      "name": "Humanin",
+      "matchedName": "Humanin",
+      "cid": 16131438
+    },
+    {
+      "slug": "ipamorelin",
+      "file": "grey-market/ipamorelin.mdx",
+      "name": "Ipamorelin",
+      "matchedName": "Ipamorelin",
+      "cid": 9831659
+    },
+    {
+      "slug": "kisspeptin-10",
+      "file": "grey-market/kisspeptin-10.mdx",
+      "name": "Kisspeptin-10",
+      "matchedName": "Kisspeptin-10",
+      "cid": 25240297
+    },
+    {
+      "slug": "kpv",
+      "file": "grey-market/kpv.mdx",
+      "name": "KPV",
+      "matchedName": "KPV",
+      "cid": 13294447
+    },
+    {
+      "slug": "larazotide",
+      "file": "grey-market/larazotide.mdx",
+      "name": "Larazotide Acetate",
+      "matchedName": "Larazotide Acetate",
+      "cid": 44146842
+    },
+    {
+      "slug": "ll-37",
+      "file": "grey-market/ll-37.mdx",
+      "name": "LL-37",
+      "matchedName": "LL-37",
+      "cid": 16198951
+    },
+    {
+      "slug": "matrixyl",
+      "file": "grey-market/matrixyl.mdx",
+      "name": "Matrixyl (Palmitoyl Pentapeptide-4)",
+      "matchedName": "Palmitoyl Pentapeptide-4",
+      "cid": 9897237
+    },
+    {
+      "slug": "mechano-growth-factor",
+      "file": "grey-market/mechano-growth-factor.mdx",
+      "name": "Mechano Growth Factor",
+      "matchedName": "MGF",
+      "cid": 447728
+    },
+    {
+      "slug": "melanotan-ii",
+      "file": "grey-market/melanotan-ii.mdx",
+      "name": "Melanotan II",
+      "matchedName": "Melanotan II",
+      "cid": 92432
+    },
+    {
+      "slug": "mod-grf-1-29",
+      "file": "grey-market/mod-grf-1-29.mdx",
+      "name": "Modified GRF (1-29)",
+      "matchedName": "CJC-1293",
+      "cid": 139593405
+    },
+    {
+      "slug": "mots-c",
+      "file": "grey-market/mots-c.mdx",
+      "name": "MOTS-c",
+      "matchedName": "MOTS-c",
+      "cid": 146675088
+    },
+    {
+      "slug": "n-acetyl-semax",
+      "file": "grey-market/n-acetyl-semax.mdx",
+      "name": "N-Acetyl Semax Amidate",
+      "matchedName": "N-Acetyl Semax Amidate",
+      "cid": 172638603
+    },
+    {
+      "slug": "p21",
+      "file": "grey-market/p21.mdx",
+      "name": "P21",
+      "matchedName": "P021",
+      "cid": 56599151
+    },
+    {
+      "slug": "pinealon",
+      "file": "grey-market/pinealon.mdx",
+      "name": "Pinealon",
+      "matchedName": "Pinealon",
+      "cid": 10273502
+    },
+    {
+      "slug": "selank",
+      "file": "grey-market/selank.mdx",
+      "name": "Selank",
+      "matchedName": "Selank",
+      "cid": 11765600
+    },
+    {
+      "slug": "semax",
+      "file": "grey-market/semax.mdx",
+      "name": "Semax",
+      "matchedName": "Semax",
+      "cid": 9811102
+    },
+    {
+      "slug": "sermorelin",
+      "file": "grey-market/sermorelin.mdx",
+      "name": "Sermorelin",
+      "matchedName": "Sermorelin",
+      "cid": 16132413
+    },
+    {
+      "slug": "snap-8",
+      "file": "grey-market/snap-8.mdx",
+      "name": "SNAP-8 (Acetyl Glutamyl Heptapeptide-3)",
+      "matchedName": "AH8",
+      "cid": 46850856
+    },
+    {
+      "slug": "ss-14",
+      "file": "grey-market/ss-14.mdx",
+      "name": "Somatostatin-14",
+      "matchedName": "Somatostatin-14",
+      "cid": 16129706
+    },
+    {
+      "slug": "tb-500",
+      "file": "grey-market/tb-500.mdx",
+      "name": "TB-500",
+      "matchedName": "TB-500",
+      "cid": 62707662
+    },
+    {
+      "slug": "thymalin",
+      "file": "grey-market/thymalin.mdx",
+      "name": "Thymalin",
+      "matchedName": "Thymalin",
+      "cid": 3085284
+    },
+    {
+      "slug": "thymosin-alpha-1",
+      "file": "grey-market/thymosin-alpha-1.mdx",
+      "name": "Thymosin Alpha-1",
+      "matchedName": "Thymosin Alpha-1",
+      "cid": 16130571
+    },
+    {
+      "slug": "thymosin-beta-4",
+      "file": "grey-market/thymosin-beta-4.mdx",
+      "name": "Thymosin Beta-4 (Full Length)",
+      "matchedName": "TB4",
+      "cid": 16046068
+    },
+    {
+      "slug": "thymulin",
+      "file": "grey-market/thymulin.mdx",
+      "name": "Thymulin",
+      "matchedName": "Thymulin",
+      "cid": 71300623
+    },
+    {
+      "slug": "vesugen",
+      "file": "grey-market/vesugen.mdx",
+      "name": "Vesugen",
+      "matchedName": "KED",
+      "cid": 130427306
+    },
+    {
+      "slug": "vilon",
+      "file": "grey-market/vilon.mdx",
+      "name": "Vilon",
+      "matchedName": "Vilon",
+      "cid": 7010502
+    }
+  ],
+  "unmatched": [
+    {
+      "slug": "dulaglutide",
+      "file": "approved-rx/dulaglutide.mdx",
+      "name": "Dulaglutide",
+      "aliases": [
+        "Trulicity",
+        "LY2189265"
+      ]
+    },
+    {
+      "slug": "mecasermin",
+      "file": "approved-rx/mecasermin.mdx",
+      "name": "Mecasermin",
+      "aliases": [
+        "Increlex",
+        "recombinant human IGF-1",
+        "rhIGF-1"
+      ]
+    },
+    {
+      "slug": "pegcetacoplan",
+      "file": "approved-rx/pegcetacoplan.mdx",
+      "name": "Pegcetacoplan",
+      "aliases": [
+        "Empaveli",
+        "Syfovre",
+        "APL-2"
+      ]
+    },
+    {
+      "slug": "amycretin",
+      "file": "investigational/amycretin.mdx",
+      "name": "Amycretin",
+      "aliases": [
+        "NNC0471-0001"
+      ]
+    },
+    {
+      "slug": "pemvidutide",
+      "file": "investigational/pemvidutide.mdx",
+      "name": "Pemvidutide",
+      "aliases": [
+        "ALT-801"
+      ]
+    },
+    {
+      "slug": "retatrutide",
+      "file": "investigational/retatrutide.mdx",
+      "name": "Retatrutide",
+      "aliases": [
+        "LY3437943"
+      ]
+    },
+    {
+      "slug": "cerebrolysin",
+      "file": "grey-market/cerebrolysin.mdx",
+      "name": "Cerebrolysin",
+      "aliases": [
+        "FPF 1070",
+        "brain peptide mixture",
+        "porcine brain hydrolysate"
+      ]
+    },
+    {
+      "slug": "cortagen",
+      "file": "grey-market/cortagen.mdx",
+      "name": "Cortagen",
+      "aliases": [
+        "Ala-Glu-Asp-Lys",
+        "cardiac tetrapeptide",
+        "heart bioregulator"
+      ]
+    },
+    {
+      "slug": "crystagen",
+      "file": "grey-market/crystagen.mdx",
+      "name": "Crystagen",
+      "aliases": [
+        "retinal peptide bioregulator",
+        "eye bioregulator",
+        "Khavinson eye peptide"
+      ]
+    },
+    {
+      "slug": "follistatin-315",
+      "file": "grey-market/follistatin-315.mdx",
+      "name": "Follistatin-315",
+      "aliases": [
+        "FS-315",
+        "FST-315",
+        "Follistatin isoform 315"
+      ]
+    },
+    {
+      "slug": "follistatin-344",
+      "file": "grey-market/follistatin-344.mdx",
+      "name": "Follistatin-344",
+      "aliases": [
+        "FS-344",
+        "FST-344",
+        "Follistatin isoform 344"
+      ]
+    },
+    {
+      "slug": "igf-1-lr3",
+      "file": "grey-market/igf-1-lr3.mdx",
+      "name": "IGF-1 LR3",
+      "aliases": [
+        "Long R3 IGF-1",
+        "Long R3 Insulin-Like Growth Factor-1"
+      ]
+    },
+    {
+      "slug": "n-acetyl-selank",
+      "file": "grey-market/n-acetyl-selank.mdx",
+      "name": "N-Acetyl Selank Amidate",
+      "aliases": [
+        "NA-Selank",
+        "NA Selank Amidate",
+        "acetylated selank"
+      ]
+    },
+    {
+      "slug": "pe-22-28",
+      "file": "grey-market/pe-22-28.mdx",
+      "name": "PE-22-28",
+      "aliases": [
+        "Spadin analogue"
+      ]
+    },
+    {
+      "slug": "peg-mgf",
+      "file": "grey-market/peg-mgf.mdx",
+      "name": "PEG-MGF",
+      "aliases": [
+        "Pegylated Mechano Growth Factor",
+        "PEG-IGF-1Ec"
+      ]
+    },
+    {
+      "slug": "sigumir",
+      "file": "grey-market/sigumir.mdx",
+      "name": "Sigumir",
+      "aliases": [
+        "cartilage bioregulator",
+        "Khavinson joint peptide",
+        "Cartalax (synthetic equivalent)"
+      ]
+    },
+    {
+      "slug": "testagen",
+      "file": "grey-market/testagen.mdx",
+      "name": "Testagen",
+      "aliases": [
+        "KEDV",
+        "Lys-Glu-Asp-Val",
+        "testicular bioregulator"
+      ]
+    },
+    {
+      "slug": "vip",
+      "file": "grey-market/vip.mdx",
+      "name": "VIP (Vasoactive Intestinal Peptide)",
+      "aliases": [
+        "VIP",
+        "vasoactive intestinal polypeptide",
+        "PHM-27 precursor"
+      ]
+    }
+  ]
+}
