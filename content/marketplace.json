@@ -360,6 +360,183 @@
         { "name": "CosmicNootropic", "url": "https://cosmicnootropic.com/products/cerebrolysin/", "type": "distributor", "note": "EU/EE-based vendor of Russian-approved neuro pharma." },
         { "name": "RxEli", "url": "https://rxeli.com/product/cerebrolysin/", "type": "distributor", "note": "International pharmacy aggregator for prescription Cerebrolysin." }
       ]
+    },
+    "argireline": {
+      "us": [
+        { "name": "Active Peptide Company", "url": "https://www.activepeptide.com/product/copper-peptide-ghk-cu/", "type": "distributor", "note": "Raw cosmetic peptide supplier for formulators; USA-based shipping." },
+        { "name": "DNA Code Skincare", "url": "https://dnacodeskincare.com/products/copper-peptides-daily-firming-cream-argireline-matrixyl-3000-snap-8-pentapeptide-18-leuphasyl-syn-ake-copper-peptide-syn-coll-syn-tacks", "type": "distributor", "note": "USA-made finished formulations containing Argireline." }
+      ]
+    },
+    "matrixyl": {
+      "us": [
+        { "name": "Active Peptide Company", "url": "https://www.activepeptide.com/", "type": "distributor", "note": "Raw cosmetic peptide supplier; Matrixyl 3000 in catalog." },
+        { "name": "DNA Code Skincare", "url": "https://dnacodeskincare.com/products/copper-peptides-daily-firming-cream-argireline-matrixyl-3000-snap-8-pentapeptide-18-leuphasyl-syn-ake-copper-peptide-syn-coll-syn-tacks", "type": "distributor", "note": "USA finished cosmetic formulations." }
+      ]
+    },
+    "snap-8": {
+      "us": [
+        { "name": "Natural Organic Skincare", "url": "https://www.naturalorganicskincare.com/products/snap-8-anti-wrinkle-peptide", "type": "distributor", "note": "Snap-8 peptide solution; US-origin DIY skincare actives." }
+      ]
+    },
+    "dihexa": {
+      "us": [
+        { "name": "Pure Health Peptides", "url": "https://purehealthpeptides.com/product/dihexa/", "type": "research", "note": "Third-party tested; COA available. RUO." },
+        { "name": "ProSpec Bio", "url": "https://www.prospecbio.com/dihexa", "type": "distributor", "note": "Established biochem peptide supplier; high purity. RUO." }
+      ]
+    },
+    "p21": {
+      "us": [
+        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/p21-p021-5mg", "type": "research", "note": "P-021 / P21 5mg; verify availability before ordering (vendor undergoing operational change)." }
+      ]
+    },
+    "pe-22-28": {
+      "us": [
+        { "name": "True Lab Peptides", "url": "https://www.truelabpeptides.com/product/pe-22-28-10mg/", "type": "research", "note": "10mg vial; research use only." }
+      ]
+    },
+    "igf-1-lr3": {
+      "us": [
+        { "name": "Pinnacle Peptides", "url": "https://www.pinnaclepeptides.com/buy-igf-lr3.html", "type": "research", "note": "99%+ purity HPLC/MS-verified; USA. RUO." },
+        { "name": "Pure Health Peptides", "url": "https://purehealthpeptides.com/product/igf-1-lr3/", "type": "research", "note": "Third-party tested; COA. RUO." },
+        { "name": "BioEdge Research Labs", "url": "https://bioedgeresearchlabs.com/product/igf-1lr3-1mg/", "type": "research", "note": "1mg IGF-1 LR3; USA same-day shipping. RUO." }
+      ]
+    },
+    "mechano-growth-factor": {
+      "us": [
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/mgf-5mg/", "type": "research", "note": "5mg; 99% purity; USA. RUO." },
+        { "name": "Behemoth Labz", "url": "https://behemothlabz.com/product/mgf-peptide/", "type": "research", "note": "USA-made MGF; 3rd-party tested. RUO." },
+        { "name": "Pure Health Peptides", "url": "https://purehealthpeptides.com/product/mgf-mechano-growth-factor/", "type": "research", "note": "MGF research peptide. RUO." }
+      ],
+      "uk": [
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/mgf-mechano-growth-factor-2mg", "type": "research", "note": "2mg; ≥98% purity. RUO." },
+        { "name": "PharmaLab Global UK", "url": "https://uk.pharmalabglobal.com/mgf-peptide/", "type": "research", "note": "MGF UK dispatch. RUO." }
+      ]
+    },
+    "peg-mgf": {
+      "us": [
+        { "name": "Sports Technology Labs", "url": "https://sportstechnologylabs.com/product/peg-mgf-2mg/", "type": "research", "note": "2mg; 3rd-party tested. RUO." }
+      ],
+      "uk": [
+        { "name": "PharmaLab Global UK", "url": "https://uk.pharmalabglobal.com/product/peg-mgf-peptide-vial/", "type": "research", "note": "PEG-MGF UK dispatch. RUO." }
+      ]
+    },
+    "mod-grf-1-29": {
+      "us": [
+        { "name": "Peptide Pros", "url": "https://www.peptidepros.net/", "type": "research", "note": "CJC-1295 No-DAC / Mod-GRF 1-29 in catalog. RUO." }
+      ]
+    },
+    "n-acetyl-selank": {
+      "us": [
+        { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/n-acetyl-selank/", "type": "research", "note": "USA-made N-Acetyl Selank; 99% purity. RUO." },
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/n-acetyl-selank-10mg/", "type": "research", "note": "10mg; 99% purity. RUO." },
+        { "name": "LeoLab RX", "url": "https://leolabrx.com/peptides/n-acetyl-selank/", "type": "research", "note": "10mg; HPLC/MS-tested ≥99%. RUO." }
+      ]
+    },
+    "n-acetyl-semax": {
+      "us": [
+        { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/n-acetyl-semax-amidate-30mg-n-acetyl-selank-amidate-30mg-blend/", "type": "research", "note": "N-Acetyl Semax/Selank 30mg/30mg blend. RUO." },
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/n-acetyl-semax-amidate-20mg/", "type": "research", "note": "20mg N-Acetyl Semax Amidate; USA. RUO." },
+        { "name": "Core Peptides", "url": "https://www.corepeptides.com/peptides/n-acetyl-semax-25mg/", "type": "research", "note": "25mg N-Acetyl Semax. RUO." }
+      ]
+    },
+    "vilon": {
+      "us": [
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/vilon-20mg/", "type": "research", "note": "20mg Khavinson dipeptide; USA. RUO." },
+        { "name": "Verified Peptides", "url": "https://verifiedpeptides.com/product/vilon/", "type": "research", "note": "99% pure Vilon; third-party tested. RUO." }
+      ],
+      "eu": [
+        { "name": "Peptide Bioregulator", "url": "https://peptide-bioregulator.com/", "type": "distributor", "note": "EU-registered VAT company; Khavinson Cytogen/Cytomax line." }
+      ],
+      "ru": [
+        { "name": "Peptide Products", "url": "https://peptide-products.com/en/khavinson-peptides", "type": "distributor", "note": "Original Khavinson Russian-produced bioregulator." }
+      ]
+    },
+    "pinealon": {
+      "us": [
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/pinealon-20mg/", "type": "research", "note": "20mg synthetic Glu-Asp-Arg tripeptide; USA. RUO." },
+        { "name": "Verified Peptides", "url": "https://verifiedpeptides.com/", "type": "research", "note": "Khavinson bioregulators incl. Pinealon. RUO." }
+      ],
+      "eu": [
+        { "name": "Peptide Bioregulator", "url": "https://peptide-bioregulator.com/", "type": "distributor", "note": "EU VAT-registered Khavinson supplier." }
+      ],
+      "ru": [
+        { "name": "Peptide Products", "url": "https://peptide-products.com/en/khavinson-peptides", "type": "distributor", "note": "Original Russian manufacturer." }
+      ]
+    },
+    "vesugen": {
+      "us": [
+        { "name": "Xcel Peptides", "url": "https://www.xcelpeptides.com/product/vesugen/", "type": "research", "note": "Vesugen Khavinson bioregulator; cardiovascular research. RUO." },
+        { "name": "Verified Peptides", "url": "https://verifiedpeptides.com/", "type": "research", "note": "Vesugen in bioregulator catalog. RUO." }
+      ],
+      "eu": [
+        { "name": "Vita-Stream", "url": "https://vita-stream.com/vesugen-cytogen-peptide-bioregulator/", "type": "distributor", "note": "Cytogen Vesugen; EU-shipping." },
+        { "name": "Peptide Bioregulator", "url": "https://peptide-bioregulator.com/", "type": "distributor", "note": "EU VAT-registered Khavinson supplier." }
+      ]
+    },
+    "chonluten": {
+      "eu": [
+        { "name": "PrymaLab", "url": "https://prymalab.net/product/chonluten-peptide/", "type": "research", "note": "Chonluten 20mg respiratory bioregulator; preclinical research. RUO." },
+        { "name": "Vita-Stream", "url": "https://vita-stream.com/chonluten-cytogen-peptide-bioregulator/", "type": "distributor", "note": "Cytogen Chonluten; EU shipping." }
+      ]
+    },
+    "cortagen": {
+      "us": [
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/cortagen-20mg/", "type": "research", "note": "20mg Khavinson tetrapeptide (Ala-Glu-Asp-Pro); USA. RUO." },
+        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/cortagen-20mg-bioregulator", "type": "research", "note": "20mg Cortagen; verify availability before ordering." }
+      ]
+    },
+    "testagen": {
+      "us": [
+        { "name": "Core Peptides", "url": "https://www.corepeptides.com/peptides/testagen-20mg/", "type": "research", "note": "20mg Testagen (KEDG) Khavinson tetrapeptide. RUO." }
+      ]
+    },
+    "thymalin": {
+      "us": [
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/thymalin-25mg/", "type": "research", "note": "25mg Thymalin; synthesized in USA. RUO." },
+        { "name": "Raw Amino", "url": "https://www.rawamino.com/peptides/thymalin/", "type": "research", "note": "25mg lyophilized vial. RUO." }
+      ]
+    },
+    "thymosin-alpha-1": {
+      "us": [
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/thymosin-alpha-1-10mg/", "type": "research", "note": "10mg; 99% purity; USA. RUO." },
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/thymosin-alpha-1-10mg/", "type": "research", "note": "10mg Thymalfasin; USA-made. RUO." }
+      ]
+    },
+    "thymosin-beta-4": {
+      "us": [
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/tb-500-thymosin-beta-4-5mg/", "type": "research", "note": "Full-length TB4/TB-500 5mg; USA. RUO." },
+        { "name": "Paramount Peptides", "url": "https://paramountpeptides.com/product/thymosin-beta-4-tb500/", "type": "research", "note": "10mg vial. RUO." },
+        { "name": "Peptides.GG", "url": "https://peptides.gg/tb-500thymosin-beta-4/", "type": "research", "note": "USA-made; COA-documented. RUO." }
+      ],
+      "uk": [
+        { "name": "Pure Peptides UK", "url": "https://purepeptidesuk.com/product/thymosin-beta-4-5mg-tb500/", "type": "research", "note": "5mg; UK research dispatch. RUO." },
+        { "name": "ProSpec Bio", "url": "https://www.prospecbio.com/thymosin_beta-4", "type": "distributor", "note": "Established biochem peptide supplier. RUO." }
+      ]
+    },
+    "cortistatin": {
+      "us": [
+        { "name": "Tocris Bioscience", "url": "https://www.tocris.com/products/cortistatin-14_3374", "type": "distributor", "note": "Cortistatin-14 from Bio-Techne; biochem research-grade. RUO." },
+        { "name": "MedChemExpress", "url": "https://www.medchemexpress.com/cortistatin-14.html", "type": "distributor", "note": "Cortistatin-14 somatostatin receptor agonist. RUO." },
+        { "name": "Fisher Scientific", "url": "https://www.fishersci.com/shop/products/cortistatin-14-1/p-5384655", "type": "distributor", "note": "Thermo Scientific reagent-grade Cortistatin-14. RUO." }
+      ]
+    },
+    "ghk": {
+      "us": [
+        { "name": "Active Peptide Company", "url": "https://www.activepeptide.com/product/ghk/", "type": "distributor", "note": "GHK HCl / Tripeptide-1; >99% purity; recommended by Dr. Pickart. RUO." }
+      ]
+    },
+    "follistatin-344": {
+      "us": [
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/follistatin-344-1mg/", "type": "research", "note": "1mg Follistatin-344; 99% purity; USA. RUO." },
+        { "name": "Behemoth Labz", "url": "https://behemothlabz.com/product/follistatin-344-95-peptide/", "type": "research", "note": "95% purity; 3rd-party tested. RUO." },
+        { "name": "Peptide Works", "url": "https://peptide-works.com/follistatin-344/", "type": "research", "note": "Research-grade 99%; complete kit. RUO." }
+      ]
+    },
+    "follistatin-315": {
+      "us": [
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/", "type": "research", "note": "Follistatin variants catalog; USA. RUO." },
+        { "name": "Behemoth Labz", "url": "https://behemothlabz.com/", "type": "research", "note": "Follistatin variants; 3rd-party tested. RUO." }
+      ]
     }
   }
 }
