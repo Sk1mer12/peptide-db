@@ -13,6 +13,9 @@ export default function SiteHeader() {
           <Link href="/peptides" className="hover:text-gray-900 transition-colors">
             Database
           </Link>
+          <Link href="/marketplace" className="hover:text-gray-900 transition-colors">
+            Marketplace
+          </Link>
           <Link href="/news" className="hover:text-gray-900 transition-colors">
             News
           </Link>

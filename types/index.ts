@@ -59,3 +59,23 @@ export interface ActiveFilters {
   minSafetyRating: number
   minPerformanceRating: number
 }
+
+export type VendorType = 'pharmacy' | 'distributor' | 'research'
+
+export interface Vendor {
+  name: string
+  url: string
+  type: VendorType
+  note?: string
+}
+
+export interface MarketplaceCountry {
+  code: string
+  name: string
+  flag: string
+}
+
+export interface MarketplaceData {
+  countries: MarketplaceCountry[]
+  vendors: Record<string, Record<string, Vendor[]>>
+}
