@@ -215,6 +215,151 @@
         { "name": "RUPharma — Semax", "url": "https://rupharma.com/semax/", "type": "pharmacy", "note": "Approved Russian pharmaceutical (1%, 0.1%, 3 ml/vial)." },
         { "name": "Peptide Products", "url": "https://peptide-products.com/en/online-store/semax-selank-innovative-peptides/manufacturer/", "type": "pharmacy", "note": "Original Russian manufacturer; Vital & Essential Drugs list." }
       ]
+    },
+    "tesamorelin": {
+      "us": [
+        { "name": "EGRIFTA WR / AXIS Center", "url": "https://www.egrifta.com/", "type": "pharmacy", "note": "Theratechnologies manufacturer-direct; specialty pharmacy via AXIS Center for HIV-associated lipodystrophy." },
+        { "name": "GoodRx — Egrifta", "url": "https://www.goodrx.com/egrifta", "type": "distributor", "note": "Price comparison + coupons across US pharmacies." },
+        { "name": "Prescription Hope", "url": "https://prescriptionhope.com/egrifta-tesamorelin/", "type": "distributor", "note": "Patient assistance program for Egrifta." }
+      ],
+      "uk": [
+        { "name": "Express Peptides", "url": "https://www.expresspeptides.co.uk/product/tesamorelin/vial", "type": "research", "note": "Research vial — not MHRA-approved; UK has no marketing authorisation. RUO." },
+        { "name": "Pure Peptides UK", "url": "https://purepeptidesuk.com/product/tesamorelin-2mg/", "type": "research", "note": "2mg research vial. RUO. No UK marketing authorisation." },
+        { "name": "UK SARMs", "url": "https://www.uksarms.com/product/tesamorelin/", "type": "research", "note": "Research-only supplier. RUO." }
+      ]
+    },
+    "aod-9604": {
+      "us": [
+        { "name": "Honest Peptide", "url": "https://honestpeptide.com/product/aod-9604", "type": "research", "note": "10mg, 99%+ purity, US-only shipping. RUO." },
+        { "name": "Pure Lab Peptides", "url": "https://purelabpeptides.com/buy-peptides/buy-aod-9604-5mg/", "type": "research", "note": "5mg vial with batch COA. RUO." }
+      ],
+      "uk": [
+        { "name": "XL Peptides", "url": "https://xlpeptides.com/product/aod-9604/", "type": "research", "note": "5mg vials; UK research supplier. RUO." },
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/aod-9604-2mg", "type": "research", "note": "2mg; >98% purity HPLC-verified. RUO." },
+        { "name": "Bluewell Peptides", "url": "https://bluewellpeptides.com/product/aod-9604-5mg-peptide/", "type": "research", "note": "5mg; >99.1% purity; COA + UK delivery. RUO." }
+      ]
+    },
+    "5-amino-1mq": {
+      "us": [
+        { "name": "Peptide Labs", "url": "https://www.peptidelabs.us/5-amino-1mq", "type": "research", "note": "Research-grade 99%+ purity. RUO." },
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/5-amino-1mq-10mg/", "type": "research", "note": "10mg vials; USA. RUO." },
+        { "name": "Pure Health Peptides", "url": "https://purehealthpeptides.com/product/5-amino-1mq-10mg/", "type": "research", "note": "10mg starting $13.99. RUO." }
+      ],
+      "uk": [
+        { "name": "Bluewell Peptides", "url": "https://bluewellpeptides.com/", "type": "research", "note": "COA-verified UK research peptides incl. 5-Amino-1MQ. RUO." }
+      ]
+    },
+    "kpv": {
+      "us": [
+        { "name": "PharmaLab Global America", "url": "https://america.pharmalabglobal.com/kpv/", "type": "research", "note": "KPV vials + pre-mixed pen. RUO." },
+        { "name": "LeoLab RX", "url": "https://leolabrx.com/peptides/kpv/", "type": "research", "note": "US research supplier. RUO." }
+      ],
+      "uk": [
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/kpv-5mg", "type": "research", "note": "5mg; ≥98% purity. RUO." },
+        { "name": "Bluewell Peptides", "url": "https://bluewellpeptides.com/", "type": "research", "note": "KLOW blend incl. KPV; HPLC-tested. RUO." }
+      ],
+      "au": [
+        { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/kpv/", "type": "research", "note": "2mg vial + pre-mixed pen; AU dispatch. RUO." },
+        { "name": "Direct SARMs Australia", "url": "https://australia.direct-sarms.com/product-category/kpv/", "type": "research", "note": "Vials, nasals, pre-mixed pens; 99% purity. RUO." }
+      ]
+    },
+    "ll-37": {
+      "us": [
+        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/ll-37-5mg-cap-18", "type": "research", "note": "5mg cathelicidin (CAP-18); 99% purity; USA. RUO." },
+        { "name": "PharmaLabGlobal — LL-37 Nasal Spray", "url": "https://pharmalabglobal.com/product/ll-37-nasal-spray/", "type": "research", "note": "Nasal spray formulation. RUO." },
+        { "name": "Tocris Bioscience", "url": "https://www.tocris.com/products/ll-37_5213", "type": "distributor", "note": "Established research-grade biochem supplier (Bio-Techne). RUO." }
+      ],
+      "uk": [
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/LL-37-5mg", "type": "research", "note": "5mg; ≥98% purity. RUO." },
+        { "name": "Bluewell Peptides", "url": "https://bluewellpeptides.com/", "type": "research", "note": "HPLC-tested; UK delivery. RUO." }
+      ]
+    },
+    "hexarelin": {
+      "us": [
+        { "name": "US Peptides", "url": "https://uspeptides.com/hexarelin-2mg.html", "type": "research", "note": "Pharmaceutical-grade Hexarelin 98% purity. RUO." },
+        { "name": "Peptide Pros", "url": "https://www.peptidepros.net/", "type": "research", "note": "Established US research peptide supplier. RUO." },
+        { "name": "Peptides.GG", "url": "https://peptides.gg/hexarelin/", "type": "research", "note": "5mg Hexarelin. RUO." }
+      ],
+      "uk": [
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/hexarelin-2mg", "type": "research", "note": "2mg & 10mg available. RUO." },
+        { "name": "OP Labs (Oxford Peptides)", "url": "https://oplabs.co.uk/product/hexarelin-2mg/", "type": "research", "note": "≥99% HPLC; next-day UK delivery. RUO." },
+        { "name": "Peptides Lab UK", "url": "https://peptideslabuk.com/product/hexarelin-acetate/", "type": "research", "note": "HPLC-verified; UK dispatch. RUO." }
+      ],
+      "au": [
+        { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/product/hexarelin/", "type": "research", "note": "AU dispatch. RUO." }
+      ]
+    },
+    "ghrp-2": {
+      "us": [
+        { "name": "Peptide Pros", "url": "https://www.peptidepros.net/", "type": "research", "note": "USA-made research peptides; reliable established vendor. RUO." },
+        { "name": "Core Peptides", "url": "https://www.corepeptides.com/peptides/ghrp-2/", "type": "research", "note": "5mg / 10mg; 99% purity. RUO." },
+        { "name": "Pharma Grade Peptides", "url": "https://pharmagradepeptides.is/", "type": "research", "note": "USA-made research peptides catalog. RUO." }
+      ],
+      "uk": [
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/ghrp-2-10mg", "type": "research", "note": "10mg & 5mg ≥98% purity. RUO." },
+        { "name": "Peptides Lab UK", "url": "https://peptideslabuk.com/product/ghrp-2-acetate/", "type": "research", "note": ">99% purity; UK delivery. RUO." }
+      ]
+    },
+    "ghrp-6": {
+      "us": [
+        { "name": "Peptide Pros", "url": "https://www.peptidepros.net/product/ghrp-6/", "type": "research", "note": "USA peptides. RUO." },
+        { "name": "US Peptides", "url": "https://uspeptides.com/", "type": "research", "note": "US-based research peptide catalog. RUO." },
+        { "name": "Pharma Grade Peptides", "url": "https://pharmagradepeptides.is/", "type": "research", "note": "USA-made GHRP-6. RUO." }
+      ],
+      "uk": [
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/ghrp-6-5mg", "type": "research", "note": "5mg; ≥98% purity. RUO." }
+      ]
+    },
+    "dsip": {
+      "us": [
+        { "name": "Pure Health Peptides", "url": "https://purehealthpeptides.com/", "type": "research", "note": "DSIP in catalog; USA. RUO." },
+        { "name": "PharmaLabGlobal", "url": "https://pharmalabglobal.com/", "type": "research", "note": "DSIP across formulations. RUO." }
+      ],
+      "uk": [
+        { "name": "UK Peptides", "url": "https://www.uk-peptides.com/dsip-5mg", "type": "research", "note": "5mg DSIP. RUO." },
+        { "name": "PharmaLab Global UK", "url": "https://uk.pharmalabglobal.com/dsip/", "type": "research", "note": "DSIP UK dispatch. RUO." }
+      ],
+      "au": [
+        { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/product/dsip-pre-mixed-pen-5mg/", "type": "research", "note": "5mg DSIP pre-mixed pen; AU dispatch. RUO." }
+      ]
+    },
+    "humanin": {
+      "us": [
+        { "name": "Pure Health Peptides", "url": "https://purehealthpeptides.com/", "type": "research", "note": "Humanin in research catalog. RUO." },
+        { "name": "PharmaLabGlobal", "url": "https://pharmalabglobal.com/", "type": "research", "note": "Humanin in catalog. RUO." }
+      ]
+    },
+    "foxo4-dri": {
+      "us": [
+        { "name": "BiotechPeptides", "url": "https://biotechpeptides.com/product/foxo4-dri-proxofim-10mg/", "type": "research", "note": "10mg Proxofim; 99% purity. RUO." },
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/foxo4-dri-10-mg/", "type": "research", "note": "10mg USA-made. RUO." },
+        { "name": "Direct SARMs US", "url": "https://united-states.direct-sarms.com/product-category/foxo4-dri/", "type": "research", "note": "US-shipping anti-aging research peptide. RUO." }
+      ]
+    },
+    "kisspeptin-10": {
+      "us": [
+        { "name": "BiotechPeptides", "url": "https://biotechpeptides.com/product/kisspeptin-10-10mg/", "type": "research", "note": "10mg; 99% purity; USA. RUO." },
+        { "name": "Iron Mountain Labz", "url": "https://ironmountainlabz.com/product/kisspeptin-10/", "type": "research", "note": "5mg injectable peptide; 99% pure. RUO." },
+        { "name": "BioEdge Research Labs", "url": "https://bioedgeresearchlabs.com/", "type": "research", "note": "US research lab; HPLC-verified. RUO." }
+      ]
+    },
+    "ara-290": {
+      "us": [
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/ara-290-15mg/", "type": "research", "note": "15mg USA-made; 99% purity. RUO." },
+        { "name": "BiotechPeptides", "url": "https://biotechpeptides.com/product/ara-290-16mg/", "type": "research", "note": "16mg vial. RUO." },
+        { "name": "BioEdge Research Labs", "url": "https://bioedgeresearchlabs.com/product/buy-ara-290/", "type": "research", "note": "Cibinetide 10mg; third-party tested. RUO." }
+      ]
+    },
+    "cerebrolysin": {
+      "ru": [
+        { "name": "RUPharma — Cerebrolysin", "url": "https://rupharma.com/cerebrolysin/", "type": "pharmacy", "note": "EVER Pharma Cerebrolysin 2–20 ml/vial; Russian pharmacy export." },
+        { "name": "RU-Pills", "url": "https://ru-pills.com/product/cerebrolysin-2-ml-10-pcs/", "type": "pharmacy", "note": "EVER Pharma Jena GmbH; 2ml ampoules x10." },
+        { "name": "Russian Pharmacy", "url": "https://www.russianpharmacy.org/product-page/buy-cerebrolysin-aka-fpf-1070", "type": "pharmacy", "note": "FPF-1070 / Cerebrolysin; international ship." }
+      ],
+      "eu": [
+        { "name": "CosmicNootropic", "url": "https://cosmicnootropic.com/products/cerebrolysin/", "type": "distributor", "note": "EU/EE-based vendor of Russian-approved neuro pharma." },
+        { "name": "RxEli", "url": "https://rxeli.com/product/cerebrolysin/", "type": "distributor", "note": "International pharmacy aggregator for prescription Cerebrolysin." }
+      ]
     }
   }
 }
