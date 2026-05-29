@@ -128,7 +128,9 @@
         { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; ≥99% HPLC. RUO." }
       ],
       "th": [
-        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/", "type": "research", "note": "Thailand dispatch; ≥99% HPLC. RUO." }
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/", "type": "research", "note": "Thailand dispatch; ≥99% HPLC. RUO." },
+        { "name": "Peptides Thailand — Clinical", "url": "https://peptidesthailand.com/peptides/library", "type": "pharmacy", "note": "40+ clinical-grade peptides; doctor-supervised Chiang Mai/Phuket/BKK." },
+        { "name": "Bangkok Peptides", "url": "https://bangkokpeptides.com/", "type": "research", "note": "High-purity Thai-dispatched research peptides. RUO." }
       ]
     },
     "tb-500": {
@@ -154,7 +156,8 @@
         { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; ≥99% HPLC. RUO." }
       ],
       "th": [
-        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/product/tb500-bpc-157-pre-mixed-pen-20mg/", "type": "research", "note": "TB-500/BPC-157 pre-mixed pen 20mg; TH dispatch. RUO." }
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/product/tb500-bpc-157-pre-mixed-pen-20mg/", "type": "research", "note": "TB-500/BPC-157 pre-mixed pen 20mg; TH dispatch. RUO." },
+        { "name": "Peptides Thailand — Clinical", "url": "https://peptidesthailand.com/peptides/library", "type": "pharmacy", "note": "Clinical-grade TB-500 in 40+ peptide library; Thailand." }
       ]
     },
     "epitalon": {
@@ -167,6 +170,12 @@
       "ru": [
         { "name": "Peptide Products", "url": "https://peptide-products.com/en/khavinson-peptides", "type": "distributor", "note": "Original Khavinson Russian-produced bioregulators." },
         { "name": "RUPharma", "url": "https://rupharma.com/", "type": "distributor", "note": "Russia-based pharmacy aggregator for Khavinson peptides." }
+      ],
+      "th": [
+        { "name": "Peptides Thailand — Epitalon", "url": "https://peptidesthailand.com/peptides/epitalon", "type": "pharmacy", "note": "Doctor-supervised clinical-grade Epitalon; Thailand." }
+      ],
+      "hk": [
+        { "name": "MedChemExpress — Epitalon", "url": "https://www.medchemexpress.com/epithalon.html", "type": "distributor", "note": "Research reagent; ships HK/SG/TH/MX. RUO." }
       ]
     },
     "mots-c": {
@@ -611,12 +620,23 @@
       "us": [
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/thymalin-25mg/", "type": "research", "note": "25mg Thymalin; synthesized in USA. RUO." },
         { "name": "Raw Amino", "url": "https://www.rawamino.com/peptides/thymalin/", "type": "research", "note": "25mg lyophilized vial. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand — immune peptides", "url": "https://thailand.pharmalabglobal.com/immune-boosting-peptides", "type": "research", "note": "Thymic immune-modulating peptides catalog. RUO." }
       ]
     },
     "thymosin-alpha-1": {
       "us": [
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/thymosin-alpha-1-10mg/", "type": "research", "note": "10mg; 99% purity; USA. RUO." },
         { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/thymosin-alpha-1-10mg/", "type": "research", "note": "10mg Thymalfasin; USA-made. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/product/thymosin-alpha-1/", "type": "research", "note": "Thymosin Alpha-1 vial; TH dispatch. RUO." },
+        { "name": "Peptides Thailand", "url": "https://thailandpeptide.com/peptides/thymosin-alpha-1", "type": "pharmacy", "note": "Doctor-supervised clinical-grade in Chiang Mai/Phuket/BKK." },
+        { "name": "PharmaLabGlobal Asia", "url": "https://asia.pharmalabglobal.com/product/thymosin-alpha-1", "type": "research", "note": "Asia regional dispatch. RUO." }
+      ],
+      "hk": [
+        { "name": "Direct Peptides Asia", "url": "https://asia.direct-peptides.com/thymosin-alpha-1-category/", "type": "research", "note": "Asia/HK dispatch; 99% purity. RUO." }
       ]
     },
     "thymosin-beta-4": {
@@ -650,6 +670,10 @@
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/follistatin-344-1mg/", "type": "research", "note": "1mg Follistatin-344; 99% purity; USA. RUO." },
         { "name": "Behemoth Labz", "url": "https://behemothlabz.com/product/follistatin-344-95-peptide/", "type": "research", "note": "95% purity; 3rd-party tested. RUO." },
         { "name": "Peptide Works", "url": "https://peptide-works.com/follistatin-344/", "type": "research", "note": "Research-grade 99%; complete kit. RUO." }
+      ],
+      "hk": [
+        { "name": "Direct Peptides Asia", "url": "https://asia.direct-peptides.com/follistatin-344-category/", "type": "research", "note": "Asia/HK dispatch; 99% purity. RUO." },
+        { "name": "Direct SARMs Asia", "url": "https://asia.direct-sarms.com/product-category/follistatin-344/", "type": "research", "note": "Asia dispatch; vials + nasal. RUO." }
       ]
     },
     "follistatin-315": {
