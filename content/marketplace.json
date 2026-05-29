@@ -38,6 +38,28 @@
         { "name": "Chemist2U", "url": "https://chemist2u.com.au/wegovy/", "type": "pharmacy", "note": "AU home delivery; TGA-approved Wegovy. eScript required." },
         { "name": "Fitch's Pharmacy", "url": "https://fitchs.com.au/wegovy-flextouch-2-4mg-semaglutide-3-2-mg-ml-x-1-pre-filled-pen-australia", "type": "pharmacy", "note": "AU community pharmacy; pre-filled pen." },
         { "name": "Wegovycare AU", "url": "https://www.wegovycare.com.au/", "type": "distributor", "note": "Manufacturer-affiliated AU support and access portal." }
+      ],
+      "mx": [
+        { "name": "Vidafarmacias — Ozempic", "url": "https://vidafarmacias.com/en/antidiabeticos/1376-ozempic-1mg-mexico-price.html", "type": "pharmacy", "note": "Mexican pharmacy; Ozempic 1mg pen." },
+        { "name": "MexGlobal — Semaglutide / Rybelsus", "url": "https://www.mexglobal.com/product/semaglutide/", "type": "pharmacy", "note": "Semaglutide oral tablets (Rybelsus) Mexico-sourced." },
+        { "name": "Nomadoc Mexico", "url": "https://www.nomadoc.com.mx/en/blog/buying-wegovy-ozempic-in-mexico", "type": "distributor", "note": "Mexico medical-tourism guide + pharmacy directory." }
+      ],
+      "sg": [
+        { "name": "Siena Health Singapore", "url": "https://www.sienahealth.com/product/ozempic-1", "type": "pharmacy", "note": "HSA-registered Ozempic 1mg pen; doctor-supervised." },
+        { "name": "Noah Singapore", "url": "https://www.ofnoah.sg/blog/ozempic-semaglutide-101-guide-what-is-it-and-how-to-use-it-for-weight-loss-treatment", "type": "distributor", "note": "SG telehealth Rx pathway for GLP-1s." },
+        { "name": "Ozempic Singapore", "url": "https://ozempicsingapore.com/", "type": "pharmacy", "note": "Dedicated SG Ozempic access portal." }
+      ],
+      "hk": [
+        { "name": "PULSE Clinic Hong Kong", "url": "https://www.pulse-clinic.com.hk/ozempic-hong-kong", "type": "pharmacy", "note": "HK clinic for Ozempic / Rybelsus prescription." },
+        { "name": "OT&P Healthcare", "url": "https://www.otandp.com/medicines-in-hong-kong/ozempic", "type": "pharmacy", "note": "HK private clinic group; Ozempic Rx." }
+      ],
+      "th": [
+        { "name": "Konkai Health — Ozempic", "url": "https://www.konkai.health/procedures/ozempic", "type": "distributor", "note": "Thailand medical-services directory for Ozempic." },
+        { "name": "WellMed Bangkok", "url": "https://wellmedbangkok.com/", "type": "pharmacy", "note": "BKK clinic with cold-chain GLP-1 dispensing." }
+      ],
+      "id": [
+        { "name": "Medisfera Pharmacy Bali", "url": "https://medisferapharmacybali.com/articles/buy-ozempic-wegovy-mounjaro-bali?lang=en", "type": "pharmacy", "note": "Bali pharmacy; Ozempic / Wegovy / Mounjaro stock." },
+        { "name": "ObatPelangsing.id", "url": "https://obatpelangsing.id/shop/", "type": "pharmacy", "note": "Indonesian online pharmacy; GLP-1 catalog." }
       ]
     },
     "tirzepatide": {
@@ -54,6 +76,24 @@
       "eu": [
         { "name": "MobiDoctor", "url": "https://www.mobidoctor.eu/wegovy-for-weight-loss", "type": "distributor", "note": "EU telehealth — also handles tirzepatide enquiries (NL/DE pickup)." },
         { "name": "Everyone.org", "url": "https://everyone.org/mounjaro-tirzepatide", "type": "distributor", "note": "EU-wide named-patient access programme." }
+      ],
+      "mx": [
+        { "name": "Vidafarmacias — Mounjaro", "url": "https://vidafarmacias.com/en/sistema-endocrino/15710-mounjaro-25-mg-05-ml-box-with-bottle-single-dose-ampoule-solution-tirzepatide.html", "type": "pharmacy", "note": "Mounjaro 2.5mg single-dose vial; Mexico." },
+        { "name": "Nomadoc — Mexico Mounjaro guide", "url": "https://www.nomadoc.com.mx/en/blog/is-mounjaro-available-in-mexico", "type": "distributor", "note": "Tijuana/Cancun/Mexicali pharmacy directory." }
+      ],
+      "sg": [
+        { "name": "AtaMed Singapore", "url": "https://atamed.sg/tirzepatide-singapore", "type": "pharmacy", "note": "HSA-approved Mounjaro Rx, from S$479.60." },
+        { "name": "TAF Clinic Singapore", "url": "https://tafclinic.com.sg/tirzepatide-injection-in-singapore-where-to-buy-and-cost-guide/", "type": "pharmacy", "note": "Tirzepatide doctor-supervised pathway." },
+        { "name": "Nexus Aesthetic SG", "url": "https://nexusaestheticsg.com/articles/tirzepatide-mounjaro-singapore-guide/", "type": "pharmacy", "note": "Mounjaro Singapore clinic." }
+      ],
+      "th": [
+        { "name": "Fulfil Pharma Pattaya", "url": "https://fulfilpharmapattaya.com/mounjaro-tirzepatide-pattaya/", "type": "pharmacy", "note": "Pattaya pharmacy stocking Mounjaro." },
+        { "name": "Open House Clinic Bangkok", "url": "https://openhouseclinic.com/en/all-package/tirzepatide-delivery-thailand_en/", "type": "pharmacy", "note": "Tirzepatide cold-chain delivery across Thailand." },
+        { "name": "Siam Clinic Phuket", "url": "https://siamclinicphuket.com/en/knowledge-en/mounjaro-faq-weight-loss-guide-2025/", "type": "pharmacy", "note": "Phuket aesthetic clinic; Mounjaro Rx." }
+      ],
+      "id": [
+        { "name": "ObatPelangsing.id — Mounjaro", "url": "https://obatpelangsing.id/product-category/produk/", "type": "pharmacy", "note": "Indonesian Mounjaro stock; online pharmacy." },
+        { "name": "Medisfera Pharmacy Bali", "url": "https://medisferapharmacybali.com/articles/buy-ozempic-wegovy-mounjaro-bali?lang=en", "type": "pharmacy", "note": "Bali pharmacy; Mounjaro available." }
       ]
     },
     "bpc-157": {
@@ -81,6 +121,12 @@
         { "name": "Australian Peptide Store", "url": "https://australianpeptidestore.com.au/product/bpc-157-10mg-australian-peptide-store/", "type": "research", "note": "Lyophilized 10mg; ≥99% purity claim. RUO." },
         { "name": "Direct SARMs Australia", "url": "https://australia.direct-sarms.com/product-category/bpc-157/", "type": "research", "note": "Vials, nasals, pre-mixed pens. RUO." },
         { "name": "PremiumPeps", "url": "https://premiumpeps.com.au/product/bpc-157-10mg/", "type": "research", "note": "AU domestic dispatch, 3–5 business days. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; ≥99% HPLC. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/", "type": "research", "note": "Thailand dispatch; ≥99% HPLC. RUO." }
       ]
     },
     "tb-500": {
@@ -101,6 +147,12 @@
       "au": [
         { "name": "Australian Peptide Store", "url": "https://australianpeptidestore.com.au/product/bpc-157-tb-500-blend-10mg-australian-peptides-store/", "type": "research", "note": "TB-500/BPC-157 blend, AU domestic." },
         { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/product/tb500-bpc-157-blend/", "type": "research", "note": "AU dispatch." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; ≥99% HPLC. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/product/tb500-bpc-157-pre-mixed-pen-20mg/", "type": "research", "note": "TB-500/BPC-157 pre-mixed pen 20mg; TH dispatch. RUO." }
       ]
     },
     "epitalon": {
@@ -128,6 +180,9 @@
       ],
       "au": [
         { "name": "MRS Arm", "url": "https://mrsarm.is/product/peptides/", "type": "research", "note": "AU-shipped MOTS-c 10mg; HPLC tested. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; MOTS-c in catalog. RUO." }
       ]
     },
     "ipamorelin": {
@@ -144,6 +199,9 @@
       "au": [
         { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/ipamorelin/", "type": "research", "note": "Lyophilized; AU dispatch. RUO." },
         { "name": "Australian Peptide Store", "url": "https://australianpeptidestore.com.au/product/cjc-1295-no-dac-ipamorelin-blend-10mg-australian-peptide-store/", "type": "research", "note": "CJC-1295/Ipamorelin blend; AU domestic. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; Ipamorelin in catalog. RUO." }
       ]
     },
     "cjc-1295": {
@@ -161,6 +219,9 @@
         { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/product/ipamorelin-cjc-1295-without-dac-blend/", "type": "research", "note": "AU dispatch; no-DAC blend. RUO." },
         { "name": "Australian Peptide Store", "url": "https://australianpeptidestore.com.au/product/cjc-1295-no-dac-ipamorelin-blend-10mg-australian-peptide-store/", "type": "research", "note": "10mg blend; AU domestic. RUO." },
         { "name": "RegenMed Direct", "url": "https://regenmeddirect.com.au/category/studies-and-research/cjc-1295-ipamorelin/", "type": "research", "note": "AU research supplier. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; CJC-1295 blends in catalog. RUO." }
       ]
     },
     "ghk-cu": {
@@ -171,6 +232,9 @@
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/ghk-cu-50mg", "type": "research", "note": "50mg copper peptide; UK dispatch. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; GHK-Cu in catalog. RUO." }
       ]
     },
     "sermorelin": {
@@ -261,6 +325,9 @@
       "au": [
         { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/kpv/", "type": "research", "note": "2mg vial + pre-mixed pen; AU dispatch. RUO." },
         { "name": "Direct SARMs Australia", "url": "https://australia.direct-sarms.com/product-category/kpv/", "type": "research", "note": "Vials, nasals, pre-mixed pens; 99% purity. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; KPV in catalog. RUO." }
       ]
     },
     "ll-37": {
@@ -548,6 +615,15 @@
         { "name": "ZAVA UK", "url": "https://www.zavamed.com/uk/liraglutide.html", "type": "pharmacy", "note": "Generic Saxenda private prescription." },
         { "name": "Simple Online Pharmacy", "url": "https://www.simpleonlinepharmacy.co.uk/online-doctor/weight-loss/liraglutide/", "type": "pharmacy", "note": "Nevolat (liraglutide) private Rx." },
         { "name": "Superdrug Online Doctor", "url": "https://onlinedoctor.superdrug.com/liraglutide.html", "type": "pharmacy", "note": "UK high-street chain online Rx." }
+      ],
+      "mx": [
+        { "name": "MedicalMex — Victoza", "url": "https://www.medicalmex.com/victoza-liraglutide/", "type": "pharmacy", "note": "Victoza (liraglutide) Mexico-sourced." }
+      ],
+      "sg": [
+        { "name": "Doctor Anywhere", "url": "https://doctoranywhere.com/blog/2024/09/06/glp-1-weight-loss-medication-what-you-need-to-know/", "type": "distributor", "note": "SG telehealth Rx for Saxenda (HSA-approved)." }
+      ],
+      "th": [
+        { "name": "PULSE Clinic Bangkok — Saxenda", "url": "https://www.pulse-clinic.com/buy-saxenda-bangkok", "type": "pharmacy", "note": "BKK clinic; Thai FDA-approved Saxenda." }
       ]
     },
     "exenatide": {
@@ -649,6 +725,12 @@
         { "name": "Treated UK", "url": "https://uk.treated.com/diabetes/trulicity", "type": "pharmacy", "note": "Next-day delivery via UK pharmacy; T2D Rx." },
         { "name": "Pharmacy Planet — Trulicity", "url": "https://www.pharmacyplanet.com/trulicity.html", "type": "pharmacy", "note": "UK online assessment + delivery." },
         { "name": "Dock Pharmacy — Trulicity", "url": "https://www.dockpharmacy.com/product/trulicity-1-5mg-0-5ml-4-pen/", "type": "pharmacy", "note": "1.5mg pre-filled pens, 4-pack." }
+      ],
+      "mx": [
+        { "name": "MedicalMex — Trulicity", "url": "https://www.medicalmex.com/trulicity-dulaglutide/", "type": "pharmacy", "note": "Trulicity (dulaglutide) Mexico-sourced; COFEPRIS-regulated." }
+      ],
+      "sg": [
+        { "name": "Doctor Anywhere SG", "url": "https://doctoranywhere.com/blog/2024/09/06/glp-1-weight-loss-medication-what-you-need-to-know/", "type": "distributor", "note": "SG telehealth; Trulicity Rx for T2D." }
       ]
     },
     "linaclotide": {
