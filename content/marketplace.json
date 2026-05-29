@@ -710,6 +710,110 @@
         { "name": "MySalve — Integrilin", "url": "https://mysalve.com/shop/integrillin-eptifibatide-", "type": "pharmacy", "note": "Hospital-grade Integrilin (eptifibatide)." },
         { "name": "Meitheal Pharmaceuticals", "url": "https://www.meithealpharma.com/our-products/70", "type": "pharmacy", "note": "Generic eptifibatide injection manufacturer." }
       ]
+    },
+    "triptorelin": {
+      "us": [
+        { "name": "PharmacyChecker — Triptorelin", "url": "https://www.pharmacychecker.com/triptorelin/", "type": "distributor", "note": "US + international price comparison; coupons." },
+        { "name": "GenuineDrugs123 — Trelstar", "url": "https://www.genuinedrugs123.com/buy-triptorelin-online", "type": "pharmacy", "note": "International pharmacy network; brand + generic." },
+        { "name": "Debiopharm — Trelstar/Decapeptyl", "url": "https://www.debiopharm.com/drug-development/products/decapeptyl-neo-decapeptyl-trelstar-pamorelin-triptodur/", "type": "pharmacy", "note": "Manufacturer-direct product family info." }
+      ],
+      "uk": [
+        { "name": "ClearChemist — Decapeptyl SR", "url": "https://www.clearchemist.co.uk/decapeptyl-sr-inj-3mg1.html", "type": "pharmacy", "note": "Decapeptyl (triptorelin) 3mg SR injection." },
+        { "name": "Ipsen — Decapeptyl", "url": "https://www.ipsen.com/", "type": "pharmacy", "note": "Manufacturer of UK Decapeptyl (Ipsen)." }
+      ]
+    },
+    "nafarelin": {
+      "uk": [
+        { "name": "Dock Pharmacy — Synarel", "url": "https://www.dockpharmacy.com/product/synarel-8ml-60-do/", "type": "pharmacy", "note": "Synarel nasal spray, 60 doses; UK fertility Rx." }
+      ]
+    },
+    "degarelix": {
+      "us": [
+        { "name": "Firmagon (Ferring)", "url": "https://www.firmagon.com/", "type": "pharmacy", "note": "Manufacturer-direct (Ferring Pharmaceuticals)." },
+        { "name": "Drugs.com — Firmagon", "url": "https://www.drugs.com/price-guide/firmagon", "type": "distributor", "note": "Price guide; brand-only, no generic available." },
+        { "name": "GoodRx — Firmagon", "url": "https://www.goodrx.com/firmagon", "type": "distributor", "note": "Coupons + savings cards." }
+      ]
+    },
+    "relugolix": {
+      "us": [
+        { "name": "Orgovyx (Sumitomo Pharma)", "url": "https://www.orgovyx.com/", "type": "pharmacy", "note": "Manufacturer-direct; specialty-pharmacy distribution only." },
+        { "name": "Orgovyx Distribution Network", "url": "https://www.orgovyxhcp.com/support/distribution-network/", "type": "pharmacy", "note": "HCP-facing specialty pharmacy network." },
+        { "name": "GoodRx — Orgovyx", "url": "https://www.goodrx.com/orgovyx", "type": "distributor", "note": "Coupons + savings programs." }
+      ]
+    },
+    "vosoritide": {
+      "us": [
+        { "name": "Voxzogo (BioMarin)", "url": "https://www.voxzogo.com/", "type": "pharmacy", "note": "Manufacturer-direct (BioMarin); pediatric achondroplasia." },
+        { "name": "Blink Health — Voxzogo", "url": "https://www.blinkhealth.com/voxzogo", "type": "distributor", "note": "Digital pharmacy with discount pricing." },
+        { "name": "Everyone.org — Voxzogo", "url": "https://everyone.org/voxzogo-vosoritide", "type": "distributor", "note": "International named-patient access." }
+      ]
+    },
+    "cyclosporine": {
+      "us": [
+        { "name": "GoodRx — Cyclosporine", "url": "https://www.goodrx.com/cyclosporine", "type": "distributor", "note": "Generic from ~$104; coupons across US pharmacies." },
+        { "name": "GoodRx — Sandimmune", "url": "https://www.goodrx.com/sandimmune", "type": "distributor", "note": "Brand-name Sandimmune price comparison." },
+        { "name": "PharmacyChecker — Neoral", "url": "https://www.pharmacychecker.com/cyclosporine+(neoral)/", "type": "distributor", "note": "Neoral US + international comparison." }
+      ],
+      "uk": [
+        { "name": "GenuineDrugs123 — Sandimmune Neoral", "url": "https://www.911globalmeds.com/buy-cyclosporine-neoral-sandimmune-gengraf-online", "type": "pharmacy", "note": "International pharmacy network." }
+      ]
+    },
+    "voclosporin": {
+      "us": [
+        { "name": "Lupkynis (Aurinia)", "url": "https://www.lupkynis.com/", "type": "pharmacy", "note": "Manufacturer-direct (Aurinia); lupus nephritis Rx." }
+      ]
+    },
+    "icatibant": {
+      "us": [
+        { "name": "Firazyr (Takeda)", "url": "https://www.firazyr.com/", "type": "pharmacy", "note": "Manufacturer-direct (Takeda); HAE attack treatment." },
+        { "name": "AmeriPharma Specialty Care", "url": "https://ameripharmaspecialty.com/firazyr-icatibant/", "type": "pharmacy", "note": "US specialty pharmacy for Firazyr." },
+        { "name": "Drugs.com — Icatibant", "url": "https://www.drugs.com/price-guide/icatibant", "type": "distributor", "note": "Price guide; Teva Savings Card to $0 for insured." }
+      ],
+      "ca": [
+        { "name": "Universal Drugstore — Firazyr", "url": "https://www.universaldrugstore.com/medications/firazyr", "type": "pharmacy", "note": "Canadian international pharmacy." },
+        { "name": "Canada Pharmacy — Firazyr", "url": "https://www.canadapharmacy.com/products/firazyr-icatibant", "type": "pharmacy", "note": "Canadian licensed online pharmacy." }
+      ]
+    },
+    "terlipressin": {
+      "us": [
+        { "name": "Terlivaz (Mallinckrodt)", "url": "https://www.terlivaz.com/", "type": "pharmacy", "note": "Manufacturer-direct; hepatorenal syndrome (HRS) hospital IV." },
+        { "name": "Drugs.com — Terlivaz", "url": "https://www.drugs.com/price-guide/terlivaz", "type": "distributor", "note": "Price guide; brand-only." },
+        { "name": "GoodRx — Terlivaz", "url": "https://www.goodrx.com/terlivaz", "type": "distributor", "note": "Coupons + savings programs." }
+      ]
+    },
+    "mecasermin": {
+      "us": [
+        { "name": "Increlex (Eton/AnovoRx)", "url": "https://www.increlex.com/en-us", "type": "pharmacy", "note": "Manufacturer-direct via AnovoRx specialty pharmacy." },
+        { "name": "Drugs.com — Increlex", "url": "https://www.drugs.com/price-guide/increlex", "type": "distributor", "note": "Price guide + assistance programs." },
+        { "name": "Prescription Hope — Increlex", "url": "https://prescriptionhope.com/increlex-mecasermin/", "type": "distributor", "note": "Patient assistance program ($70/mo)." }
+      ]
+    },
+    "afamelanotide": {
+      "us": [
+        { "name": "Scenesse (Clinuvel)", "url": "https://scenesse.com/", "type": "pharmacy", "note": "Manufacturer-direct (Clinuvel); EPP photoprotection implant." }
+      ]
+    },
+    "retatrutide": {
+      "us": [
+        { "name": "Peptideware", "url": "https://peptideware.com/product/retatrutide/", "type": "research", "note": "10mg triple agonist; ships to all 50 states. RUO." },
+        { "name": "Sunday USA", "url": "https://sunday-usa.com/product/retatrutide/", "type": "research", "note": "USA-based research peptide; 99% purity. RUO." },
+        { "name": "MyBioSource — Retatrutide", "url": "https://www.mybiosource.com/retatrutide-peptide", "type": "distributor", "note": "Established biochem peptide supplier. RUO." }
+      ]
+    },
+    "mazdutide": {
+      "us": [
+        { "name": "Manufactry — Mazdutide", "url": "https://www.manufactry.com/retatrutide/high-purity-peptide-science-retatrutide-mazdutide-cagrilintide-for-weight-loss-research_795391.html", "type": "research", "note": "HPLC-verified ≥99%; weight-loss research peptide. RUO." }
+      ]
+    },
+    "survodutide": {
+      "us": [
+        { "name": "Manufactry — Survodutide", "url": "https://www.manufactry.com/retatrutide/high-purity-peptide-science-retatrutide-mazdutide-cagrilintide-for-weight-loss-research_795391.html", "type": "research", "note": "GLP-1/glucagon dual agonist; ≥99% HPLC. RUO." }
+      ]
+    },
+    "cagrilintide": {
+      "us": [
+        { "name": "Manufactry — Cagrilintide", "url": "https://www.manufactry.com/retatrutide/high-purity-peptide-science-retatrutide-mazdutide-cagrilintide-for-weight-loss-research_795391.html", "type": "research", "note": "Amylin analog; weight-loss research. RUO." }
+      ]
     }
   }
 }
