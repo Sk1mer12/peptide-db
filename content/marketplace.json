@@ -100,9 +100,9 @@
     },
     "bpc-157": {
       "us": [
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/bpc-157", "type": "research", "note": "US-made, third-party HPLC tested. Research use only." },
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/bpc-157/", "type": "research", "note": "5mg vials; lyophilized; research use only." },
-        { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/bpc-157/", "type": "research", "note": "Third-party tested research peptide." }
+        { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/bpc-157/", "type": "research", "note": "Third-party tested research peptide." },
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/bpc157-10mg/", "type": "research", "note": "10mg vial; 99% purity USA-made. RUO." }
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/bpc-157-5mg", "type": "research", "note": "UK-based research peptide supplier." },
@@ -135,9 +135,9 @@
     },
     "tb-500": {
       "us": [
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/tb-500-thymosin-beta-4", "type": "research", "note": "5mg vials; USA-made. Research use only." },
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/tb-500-thymosin-beta-4-5mg/", "type": "research", "note": "99% purity claim; lyophilized." },
-        { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/tb-500/", "type": "research", "note": "5mg / 10mg vials. RUO." }
+        { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/tb-500/", "type": "research", "note": "5mg / 10mg vials. RUO." },
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/tb500-10mg/", "type": "research", "note": "10mg vial; 99% purity USA-made. RUO." }
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/tb500-peptide-5mg", "type": "research", "note": "5mg vials, ≥99% purity, fast UK dispatch." },
@@ -198,9 +198,9 @@
     },
     "ipamorelin": {
       "us": [
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/ipamorelin", "type": "research", "note": "GHS-R1a research; USA-made. RUO." },
         { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/ipamorelin/", "type": "research", "note": "5mg/10mg; 99% purity. RUO." },
-        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/ipamorelin-10mg/", "type": "research", "note": "10mg vials; 99% purity. RUO." }
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/ipamorelin-10mg/", "type": "research", "note": "10mg vials; 99% purity. RUO." },
+        { "name": "Peptide Pros", "url": "https://www.peptidepros.net/product/ipamorelin-2mg/", "type": "research", "note": "USA-made; ≥99% purity guarantee. RUO." }
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/ipamorelin-5mg", "type": "research", "note": "5mg ≥98% purity. RUO." },
@@ -237,9 +237,9 @@
     },
     "ghk-cu": {
       "us": [
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/ghk-cu-50mg-copper-peptide", "type": "research", "note": "50mg copper tripeptide-1; USA. RUO." },
         { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/ghk-cu/", "type": "research", "note": "100mg copper peptide; GMP-followed; USA. RUO." },
-        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/ghk-cu-50mg/", "type": "research", "note": "50mg; 99% purity claim. RUO." }
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/ghk-cu-50mg/", "type": "research", "note": "50mg; 99% purity claim. RUO." },
+        { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/ghk-cu-topical-200mg/", "type": "research", "note": "200mg topical; 99% purity; USA. RUO." }
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/ghk-cu-50mg", "type": "research", "note": "50mg copper peptide; UK dispatch. RUO." }
@@ -250,9 +250,9 @@
     },
     "sermorelin": {
       "us": [
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/sermorelin", "type": "research", "note": "GHRH analog; USA-made. RUO." },
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/sermorelin-5mg/", "type": "research", "note": "5mg; 99% purity. RUO." },
-        { "name": "NextGenPeps", "url": "https://nextgenpeps.com/shop/sermorelin", "type": "research", "note": "Research-grade Sermorelin; USA. RUO." }
+        { "name": "NextGenPeps", "url": "https://nextgenpeps.com/shop/sermorelin", "type": "research", "note": "Research-grade Sermorelin; USA. RUO." },
+        { "name": "Accelerate Labs", "url": "https://accelerate-labs.us/", "type": "research", "note": "99%+ purity; 3rd-party tested in the US. RUO." }
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/Sermorelin-5mg", "type": "research", "note": "Sermorelin Acetate 5mg; ≥98% purity. RUO." },
@@ -364,9 +364,9 @@
     },
     "ll-37": {
       "us": [
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/ll-37-5mg-cap-18", "type": "research", "note": "5mg cathelicidin (CAP-18); 99% purity; USA. RUO." },
         { "name": "PharmaLabGlobal — LL-37 Nasal Spray", "url": "https://pharmalabglobal.com/product/ll-37-nasal-spray/", "type": "research", "note": "Nasal spray formulation. RUO." },
-        { "name": "Tocris Bioscience", "url": "https://www.tocris.com/products/ll-37_5213", "type": "distributor", "note": "Established research-grade biochem supplier (Bio-Techne). RUO." }
+        { "name": "Tocris Bioscience", "url": "https://www.tocris.com/products/ll-37_5213", "type": "distributor", "note": "Established research-grade biochem supplier (Bio-Techne). RUO." },
+        { "name": "Biosynth — LL-37", "url": "https://www.biosynth.com/p/VAC-00571/ll-37-antimicrobial-peptide-human", "type": "distributor", "note": "Human antimicrobial peptide reference reagent. RUO." }
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/LL-37-5mg", "type": "research", "note": "5mg; ≥98% purity. RUO." },
@@ -500,7 +500,9 @@
     },
     "p21": {
       "us": [
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/p21-p021-5mg", "type": "research", "note": "P-021 / P21 5mg; verify availability before ordering (vendor undergoing operational change)." }
+        { "name": "Limitless Life Nootropics — P21 Nasal Spray", "url": "https://limitlesslifenootropics.com/product/p-21-nasal-spray/", "type": "research", "note": "25mg nasal spray; USA-made; ≥99% purity. RUO." },
+        { "name": "True Lab Peptides — P21/P021", "url": "https://www.truelabpeptides.com/product/p21-p021-10mg/", "type": "research", "note": "10mg P21 vial. RUO." },
+        { "name": "Verified Peptides — P21", "url": "https://verifiedpeptides.com/product/p21/", "type": "research", "note": "10mg; third-party lab tested. RUO." }
       ]
     },
     "pe-22-28": {
@@ -607,8 +609,7 @@
     },
     "cortagen": {
       "us": [
-        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/cortagen-20mg/", "type": "research", "note": "20mg Khavinson tetrapeptide (Ala-Glu-Asp-Pro); USA. RUO." },
-        { "name": "Peptide Sciences", "url": "https://www.peptidesciences.com/cortagen-20mg-bioregulator", "type": "research", "note": "20mg Cortagen; verify availability before ordering." }
+        { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/cortagen-20mg/", "type": "research", "note": "20mg Khavinson tetrapeptide (Ala-Glu-Asp-Pro); USA. RUO." }
       ]
     },
     "testagen": {
