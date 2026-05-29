@@ -814,6 +814,98 @@
       "us": [
         { "name": "Manufactry — Cagrilintide", "url": "https://www.manufactry.com/retatrutide/high-purity-peptide-science-retatrutide-mazdutide-cagrilintide-for-weight-loss-research_795391.html", "type": "research", "note": "Amylin analog; weight-loss research. RUO." }
       ]
+    },
+    "pasireotide": {
+      "us": [
+        { "name": "Prescription Hope — Signifor", "url": "https://prescriptionhope.com/signifor-pasireotide/", "type": "distributor", "note": "Patient assistance program ($70/mo); brand-only, no generic." },
+        { "name": "Drugs.com — Pasireotide", "url": "https://www.drugs.com/ingredient/pasireotide.html", "type": "distributor", "note": "Drug info + brand-name pricing." }
+      ]
+    },
+    "glucagon": {
+      "us": [
+        { "name": "GoodRx — Glucagon", "url": "https://www.goodrx.com/glucagon", "type": "distributor", "note": "Coupons + price comparison across US pharmacies." },
+        { "name": "GoodRx — Baqsimi", "url": "https://www.goodrx.com/baqsimi", "type": "distributor", "note": "Nasal-powder glucagon; Lilly savings card to $25." },
+        { "name": "Gvoke Glucagon", "url": "https://www.gvokeglucagon.com/getting-gvoke", "type": "pharmacy", "note": "Manufacturer-direct (Xeris); HypoPen + PFS." }
+      ]
+    },
+    "vasopressin": {
+      "us": [
+        { "name": "Vasostrict (Endo)", "url": "https://www.vasostrictrtu.com/", "type": "pharmacy", "note": "Manufacturer-direct Vasostrict RTU; hospital IV." },
+        { "name": "Drugs.com — Vasostrict", "url": "https://www.drugs.com/pro/vasostrict.html", "type": "distributor", "note": "Prescribing info + price guide. Generic now available." },
+        { "name": "RxSpark — Vasopressin", "url": "https://www.rxspark.com/vasostrict", "type": "distributor", "note": "Discount card for vasopressin-dextrose." }
+      ]
+    },
+    "nesiritide": {
+      "us": [
+        { "name": "Drugs.com — Nesiritide", "url": "https://www.drugs.com/mtm/nesiritide.html", "type": "distributor", "note": "Hospital-administered IV for acute decompensated HF." }
+      ]
+    },
+    "angiotensin-ii": {
+      "us": [
+        { "name": "Giapreza (La Jolla / Innoviva)", "url": "https://www.giapreza.com/", "type": "pharmacy", "note": "Manufacturer-direct; synthetic ANG II for septic shock; hospital IV." }
+      ]
+    },
+    "cosyntropin": {
+      "us": [
+        { "name": "Amphastar — Cortrosyn", "url": "https://amphastar.com/cortrosyn.html", "type": "pharmacy", "note": "Manufacturer-direct (Amphastar); ACTH stim test." },
+        { "name": "PharmacyChecker — Cortrosyn", "url": "https://www.pharmacychecker.com/cortrosyn/", "type": "distributor", "note": "US + international price comparison." },
+        { "name": "SingleCare — Cortrosyn", "url": "https://www.singlecare.com/prescription/cortrosyn", "type": "distributor", "note": "Coupons up to 80% off; ~$34 with discount." }
+      ]
+    },
+    "sincalide": {
+      "us": [
+        { "name": "SingleCare — Kinevac", "url": "https://www.singlecare.com/prescription/kinevac", "type": "distributor", "note": "Coupons up to 80%; CCK-8 diagnostic injection." },
+        { "name": "Selleck — Sincalide", "url": "https://www.selleckchem.com/peptide/Sincalide(Kinevac).html", "type": "distributor", "note": "Biochem research-grade Sincalide. RUO." }
+      ]
+    },
+    "etelcalcetide": {
+      "us": [
+        { "name": "Parsabiv (Amgen)", "url": "https://www.parsabiv.com/", "type": "pharmacy", "note": "Manufacturer-direct; in-clinic IV at hemodialysis sessions." },
+        { "name": "Parsabiv HCP", "url": "https://www.parsabivhcp.com/", "type": "pharmacy", "note": "HCP-facing dispensing portal for dialysis centers." }
+      ]
+    },
+    "zilucoplan": {
+      "us": [
+        { "name": "Zilbrysq (UCB)", "url": "https://www.zilbrysq.com/", "type": "pharmacy", "note": "Manufacturer-direct (UCB); REMS-restricted gMG Rx." },
+        { "name": "PANTHERx Rare Pharmacy", "url": "https://www.pantherxrare.com/", "type": "pharmacy", "note": "UCB's exclusive specialty-pharmacy partner for Zilbrysq." }
+      ]
+    },
+    "enfuvirtide": {
+      "us": [
+        { "name": "Prescription Hope — Fuzeon", "url": "https://prescriptionhope.com/fuzeon-enfuvirtide/", "type": "distributor", "note": "Patient access program. NOTE: Genentech discontinued US distribution Feb 2025." },
+        { "name": "Universal Drugstore — Enfuvirtide", "url": "https://www.universaldrugstore.com/medications/enfuvirtide", "type": "pharmacy", "note": "Canadian international pharmacy; sourcing where available." }
+      ]
+    },
+    "pegcetacoplan": {
+      "us": [
+        { "name": "Empaveli (Apellis)", "url": "https://www.empaveli.com/", "type": "pharmacy", "note": "Manufacturer-direct (Apellis); PNH/C3G subQ Rx." },
+        { "name": "Syfovre (Apellis)", "url": "https://www.syfovre.com/", "type": "pharmacy", "note": "Ophthalmic formulation for geographic atrophy (AMD)." },
+        { "name": "Drugs.com — Pegcetacoplan", "url": "https://www.drugs.com/pegcetacoplan.html", "type": "distributor", "note": "Drug info + price guide." }
+      ]
+    },
+    "buserelin": {
+      "uk": [
+        { "name": "Dock Pharmacy — Suprefact", "url": "https://www.dockpharmacy.com/product/suprefact-inj-5-5-ml-vial-2/", "type": "pharmacy", "note": "Suprefact 5.5ml x 2; UK Rx." },
+        { "name": "Pharmacy2U — Suprecur", "url": "https://www.pharmacy2u.co.uk/suprecur-buserelin-injection-1mgml-2-x-5-5ml-injections-p4477.html", "type": "pharmacy", "note": "Suprecur (buserelin) 1mg/ml; UK Rx." },
+        { "name": "Fertility2U", "url": "https://www.fertility2u.com/catalog/product/view/_ignore_category/1/id/2/s/buserelin-injection-suprecur-5-5ml/", "type": "pharmacy", "note": "UK IVF specialty pharmacy." }
+      ],
+      "ca": [
+        { "name": "GenuineDrugs123 — Suprefact", "url": "https://www.genuinedrugs123.com/buy-buserelin-acetate-online", "type": "pharmacy", "note": "International pharmacy network; brand + generic." }
+      ]
+    },
+    "elamipretide": {
+      "us": [
+        { "name": "Forzinity (Stealth BioTherapeutics)", "url": "https://www.forzinity.com/", "type": "pharmacy", "note": "Manufacturer-direct; FDA-approved Sept 2025 for Barth syndrome." },
+        { "name": "Behemoth Labz — SS-31", "url": "https://behemothlabz.com/product/ss31-elamipretide/", "type": "research", "note": "SS-31 research peptide; 3rd-party tested; USA. RUO." },
+        { "name": "Epigenetix Labs — SS-31", "url": "https://epigenetixlabs.com/shop/peptides/anti-aging/ss-31/", "type": "research", "note": "Mitochondrial research-grade SS-31. RUO." }
+      ]
+    },
+    "vip": {
+      "us": [
+        { "name": "BioLongevity Labs — VIP", "url": "https://biolongevitylabs.com/product/vip-5mg/", "type": "research", "note": "5mg VIP/Aviptadil; 99% purity; USA. RUO." },
+        { "name": "Pure Health Peptides — VIP", "url": "https://purehealthpeptides.com/product/vip/", "type": "research", "note": "99%+ purity VIP for research. RUO." },
+        { "name": "MedChemExpress — Aviptadil", "url": "https://www.medchemexpress.com/Aviptadil.html", "type": "distributor", "note": "Research-grade biochem reagent. RUO." }
+      ]
     }
   }
 }
