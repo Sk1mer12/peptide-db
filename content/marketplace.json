@@ -54,6 +54,7 @@
         { "name": "OT&P Healthcare", "url": "https://www.otandp.com/medicines-in-hong-kong/ozempic", "type": "pharmacy", "note": "HK private clinic group; Ozempic Rx." }
       ],
       "th": [
+        { "name": "PULSE Clinic Thailand", "url": "https://www.pulse-clinic.com/buy-semaglutide-ozempic-and-rybelsus-in-bangkok-pattaya-hatyai-phuket-thailand", "type": "pharmacy", "note": "Bangkok/Pattaya/Phuket/Chiang Mai/Koh Samui." },
         { "name": "Konkai Health — Ozempic", "url": "https://www.konkai.health/procedures/ozempic", "type": "distributor", "note": "Thailand medical-services directory for Ozempic." },
         { "name": "WellMed Bangkok", "url": "https://wellmedbangkok.com/", "type": "pharmacy", "note": "BKK clinic with cold-chain GLP-1 dispensing." }
       ],
@@ -88,6 +89,7 @@
       ],
       "th": [
         { "name": "Fulfil Pharma Pattaya", "url": "https://fulfilpharmapattaya.com/mounjaro-tirzepatide-pattaya/", "type": "pharmacy", "note": "Pattaya pharmacy stocking Mounjaro." },
+        { "name": "HUM Clinic Bangkok", "url": "https://www.hum-clinic.com/service/get-mounjaro-bangkok/", "type": "pharmacy", "note": "BKK clinic; Mounjaro prescription + refills." },
         { "name": "Open House Clinic Bangkok", "url": "https://openhouseclinic.com/en/all-package/tirzepatide-delivery-thailand_en/", "type": "pharmacy", "note": "Tirzepatide cold-chain delivery across Thailand." },
         { "name": "Siam Clinic Phuket", "url": "https://siamclinicphuket.com/en/knowledge-en/mounjaro-faq-weight-loss-guide-2025/", "type": "pharmacy", "note": "Phuket aesthetic clinic; Mounjaro Rx." }
       ],
@@ -247,6 +249,12 @@
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/Sermorelin-5mg", "type": "research", "note": "Sermorelin Acetate 5mg; ≥98% purity. RUO." },
         { "name": "Vitality Peptides", "url": "https://vitalitypeptides.co.uk/product/sermorelin/", "type": "research", "note": "Sermorelin £35.90–62.90. RUO." },
         { "name": "PharmaLab Global UK", "url": "https://uk.pharmalabglobal.com/product/sermorelin-pre-mixed-pen-2mg/", "type": "research", "note": "Pre-mixed pen 2mg; UK dispatch. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/product/sermorelin-ghrp-2-peptide-combo/", "type": "research", "note": "Sermorelin/GHRP-2 combo; Thailand dispatch. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; Sermorelin vials + pens. RUO." }
       ]
     },
     "melanotan-ii": {
@@ -257,6 +265,9 @@
       ],
       "uk": [
         { "name": "XL Peptides", "url": "https://xlpeptides.com/product/melanotan-2-10mg/", "type": "research", "note": "10mg MT-2; UK dispatch. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; Melanotan II in catalog. RUO." }
       ]
     },
     "selank": {
@@ -268,6 +279,9 @@
       "ru": [
         { "name": "Peptide Products", "url": "https://peptide-products.com/en/online-store/semax-selank-innovative-peptides/manufacturer/", "type": "pharmacy", "note": "Approved Russian pharmaceutical; original manufacturer." },
         { "name": "RUPharma", "url": "https://rupharma.com/", "type": "pharmacy", "note": "Russia-based pharmaceutical aggregator; ships internationally." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; Selank in catalog. RUO." }
       ]
     },
     "semax": {
@@ -278,6 +292,9 @@
       "ru": [
         { "name": "RUPharma — Semax", "url": "https://rupharma.com/semax/", "type": "pharmacy", "note": "Approved Russian pharmaceutical (1%, 0.1%, 3 ml/vial)." },
         { "name": "Peptide Products", "url": "https://peptide-products.com/en/online-store/semax-selank-innovative-peptides/manufacturer/", "type": "pharmacy", "note": "Original Russian manufacturer; Vital & Essential Drugs list." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/product-category/semax/", "type": "research", "note": "Semax vials + pre-mixed pens + nasal; HK dispatch. RUO." }
       ]
     },
     "tesamorelin": {
@@ -301,6 +318,12 @@
         { "name": "XL Peptides", "url": "https://xlpeptides.com/product/aod-9604/", "type": "research", "note": "5mg vials; UK research supplier. RUO." },
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/aod-9604-2mg", "type": "research", "note": "2mg; >98% purity HPLC-verified. RUO." },
         { "name": "Bluewell Peptides", "url": "https://bluewellpeptides.com/product/aod-9604-5mg-peptide/", "type": "research", "note": "5mg; >99.1% purity; COA + UK delivery. RUO." }
+      ],
+      "hk": [
+        { "name": "Direct SARMs Asia — AOD-9604", "url": "https://asia.direct-sarms.com/product/aod9604-peptide-vial/?attribute_size=5mg+vial", "type": "research", "note": "5mg vial; Asia/HK dispatch. RUO." }
+      ],
+      "th": [
+        { "name": "SARM Square Thailand", "url": "https://sarmssquare.com/product/aod-9604-5mg/", "type": "research", "note": "AOD-9604 5mg; Thailand-based supplier. RUO." }
       ]
     },
     "5-amino-1mq": {
@@ -354,6 +377,12 @@
       ],
       "au": [
         { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/product/hexarelin/", "type": "research", "note": "AU dispatch. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; Hexarelin in catalog. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/", "type": "research", "note": "Thailand dispatch; Hexarelin in catalog. RUO." }
       ]
     },
     "ghrp-2": {
@@ -365,6 +394,9 @@
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/ghrp-2-10mg", "type": "research", "note": "10mg & 5mg ≥98% purity. RUO." },
         { "name": "Peptides Lab UK", "url": "https://peptideslabuk.com/product/ghrp-2-acetate/", "type": "research", "note": ">99% purity; UK delivery. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand — Sermorelin/GHRP-2 combo", "url": "https://thailand.pharmalabglobal.com/product/sermorelin-ghrp-2-peptide-combo/", "type": "research", "note": "GHRP-2 combo; Thailand dispatch. RUO." }
       ]
     },
     "ghrp-6": {
@@ -375,6 +407,9 @@
       ],
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/ghrp-6-5mg", "type": "research", "note": "5mg; ≥98% purity. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong — GHRP-6", "url": "https://hong-kong.pharmalabglobal.com/ghrp-6/", "type": "research", "note": "GHRP-6 HK dispatch. RUO." }
       ]
     },
     "dsip": {
@@ -388,6 +423,9 @@
       ],
       "au": [
         { "name": "PharmaLabGlobal Australia", "url": "https://australia.pharmalabglobal.com/product/dsip-pre-mixed-pen-5mg/", "type": "research", "note": "5mg DSIP pre-mixed pen; AU dispatch. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; DSIP in catalog. RUO." }
       ]
     },
     "humanin": {
@@ -466,6 +504,9 @@
         { "name": "Pinnacle Peptides", "url": "https://www.pinnaclepeptides.com/buy-igf-lr3.html", "type": "research", "note": "99%+ purity HPLC/MS-verified; USA. RUO." },
         { "name": "Pure Health Peptides", "url": "https://purehealthpeptides.com/product/igf-1-lr3/", "type": "research", "note": "Third-party tested; COA. RUO." },
         { "name": "BioEdge Research Labs", "url": "https://bioedgeresearchlabs.com/product/igf-1lr3-1mg/", "type": "research", "note": "1mg IGF-1 LR3; USA same-day shipping. RUO." }
+      ],
+      "th": [
+        { "name": "PharmaLabGlobal Thailand", "url": "https://thailand.pharmalabglobal.com/", "type": "research", "note": "IGF-1 LR3 in Thai catalog. RUO." }
       ]
     },
     "mechano-growth-factor": {
@@ -477,6 +518,9 @@
       "uk": [
         { "name": "UK Peptides", "url": "https://www.uk-peptides.com/mgf-mechano-growth-factor-2mg", "type": "research", "note": "2mg; ≥98% purity. RUO." },
         { "name": "PharmaLab Global UK", "url": "https://uk.pharmalabglobal.com/mgf-peptide/", "type": "research", "note": "MGF UK dispatch. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; MGF in catalog. RUO." }
       ]
     },
     "peg-mgf": {
@@ -497,6 +541,9 @@
         { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/n-acetyl-selank/", "type": "research", "note": "USA-made N-Acetyl Selank; 99% purity. RUO." },
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/product/n-acetyl-selank-10mg/", "type": "research", "note": "10mg; 99% purity. RUO." },
         { "name": "LeoLab RX", "url": "https://leolabrx.com/peptides/n-acetyl-selank/", "type": "research", "note": "10mg; HPLC/MS-tested ≥99%. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; Selank line available. RUO." }
       ]
     },
     "n-acetyl-semax": {
@@ -504,6 +551,9 @@
         { "name": "Limitless Life Nootropics", "url": "https://limitlesslifenootropics.com/product/n-acetyl-semax-amidate-30mg-n-acetyl-selank-amidate-30mg-blend/", "type": "research", "note": "N-Acetyl Semax/Selank 30mg/30mg blend. RUO." },
         { "name": "BioLongevity Labs", "url": "https://biolongevitylabs.com/product/n-acetyl-semax-amidate-20mg/", "type": "research", "note": "20mg N-Acetyl Semax Amidate; USA. RUO." },
         { "name": "Core Peptides", "url": "https://www.corepeptides.com/peptides/n-acetyl-semax-25mg/", "type": "research", "note": "25mg N-Acetyl Semax. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/product-category/semax/", "type": "research", "note": "Semax catalog incl. acetylated variants; HK dispatch. RUO." }
       ]
     },
     "vilon": {
@@ -578,6 +628,9 @@
       "uk": [
         { "name": "Pure Peptides UK", "url": "https://purepeptidesuk.com/product/thymosin-beta-4-5mg-tb500/", "type": "research", "note": "5mg; UK research dispatch. RUO." },
         { "name": "ProSpec Bio", "url": "https://www.prospecbio.com/thymosin_beta-4", "type": "distributor", "note": "Established biochem peptide supplier. RUO." }
+      ],
+      "hk": [
+        { "name": "PharmaLabGlobal Hong Kong", "url": "https://hong-kong.pharmalabglobal.com/", "type": "research", "note": "HK dispatch hub; TB4/Thymosin-β-4 catalog. RUO." }
       ]
     },
     "cortistatin": {
