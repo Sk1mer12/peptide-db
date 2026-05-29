@@ -537,6 +537,179 @@
         { "name": "Biotech Peptides", "url": "https://biotechpeptides.com/", "type": "research", "note": "Follistatin variants catalog; USA. RUO." },
         { "name": "Behemoth Labz", "url": "https://behemothlabz.com/", "type": "research", "note": "Follistatin variants; 3rd-party tested. RUO." }
       ]
+    },
+    "liraglutide": {
+      "us": [
+        { "name": "NovoCare — Saxenda/Victoza", "url": "https://www.novocare.com/", "type": "pharmacy", "note": "Manufacturer-direct (Novo Nordisk) brand-name pathway." },
+        { "name": "Sesame Care", "url": "https://sesamecare.com/medication/liraglutide", "type": "distributor", "note": "Online prescription + pharmacy delivery." },
+        { "name": "PushHealth", "url": "https://www.pushhealth.com/drugs/saxenda", "type": "distributor", "note": "Telehealth Rx pathway." }
+      ],
+      "uk": [
+        { "name": "ZAVA UK", "url": "https://www.zavamed.com/uk/liraglutide.html", "type": "pharmacy", "note": "Generic Saxenda private prescription." },
+        { "name": "Simple Online Pharmacy", "url": "https://www.simpleonlinepharmacy.co.uk/online-doctor/weight-loss/liraglutide/", "type": "pharmacy", "note": "Nevolat (liraglutide) private Rx." },
+        { "name": "Superdrug Online Doctor", "url": "https://onlinedoctor.superdrug.com/liraglutide.html", "type": "pharmacy", "note": "UK high-street chain online Rx." }
+      ]
+    },
+    "exenatide": {
+      "us": [
+        { "name": "Drugs.com — Exenatide", "url": "https://www.drugs.com/exenatide.html", "type": "distributor", "note": "Authoritative drug info + pharmacy locator." },
+        { "name": "PushHealth", "url": "https://www.pushhealth.com/drugs/exenatide", "type": "distributor", "note": "Telehealth Rx pathway." },
+        { "name": "Prescription Hope", "url": "https://prescriptionhope.com/byetta-exenatide/", "type": "distributor", "note": "Patient assistance program ($70/mo)." }
+      ]
+    },
+    "octreotide": {
+      "us": [
+        { "name": "PharmacyChecker — Octreotide", "url": "https://www.pharmacychecker.com/octreotide+acetate/", "type": "distributor", "note": "US + international price comparison + coupons." },
+        { "name": "Prescription Hope — Sandostatin", "url": "https://prescriptionhope.com/medication/sandostatin-octreotide/", "type": "distributor", "note": "Patient assistance program." },
+        { "name": "WellRx — Octreotide", "url": "https://www.wellrx.com/prescriptions/octreotide-acetate/", "type": "distributor", "note": "Discount pricing across US pharmacies." }
+      ],
+      "uk": [
+        { "name": "Pfizer UK — Octreotide", "url": "https://www.pfizer.co.uk/products/prescription-medicines/octreotide", "type": "pharmacy", "note": "Manufacturer info for UK prescribers." }
+      ]
+    },
+    "lanreotide": {
+      "us": [
+        { "name": "GoodRx — Lanreotide", "url": "https://www.goodrx.com/lanreotide/what-is", "type": "distributor", "note": "Somatuline Depot price comparison + coupons." }
+      ],
+      "uk": [
+        { "name": "Ipsen — Somatuline Autogel", "url": "https://www.ipsen.com/", "type": "pharmacy", "note": "Manufacturer of UK Somatuline Autogel; specialist Rx." }
+      ]
+    },
+    "teriparatide": {
+      "us": [
+        { "name": "Lilly — Forteo", "url": "https://www.forteo.com/", "type": "pharmacy", "note": "Manufacturer-direct (Eli Lilly); Rx required." },
+        { "name": "Drugs.com — Teriparatide", "url": "https://www.drugs.com/teriparatide.html", "type": "distributor", "note": "Generic teriparatide availability + price." },
+        { "name": "GoodRx — Forteo", "url": "https://www.goodrx.com/forteo", "type": "distributor", "note": "US price comparison + coupons." }
+      ]
+    },
+    "abaloparatide": {
+      "us": [
+        { "name": "Tymlos.com", "url": "https://www.tymlos.com/", "type": "pharmacy", "note": "Manufacturer-direct (Radius Health)." },
+        { "name": "Everyone.org — Tymlos", "url": "https://everyone.org/tymlos-abaloparatide", "type": "distributor", "note": "International named-patient access." },
+        { "name": "Drugs.com — Tymlos", "url": "https://www.drugs.com/tymlos.html", "type": "distributor", "note": "Drug info + pharmacy locator." }
+      ]
+    },
+    "leuprolide": {
+      "us": [
+        { "name": "GoodRx — Leuprolide", "url": "https://www.goodrx.com/leuprolide", "type": "distributor", "note": "Coupons drop price ~94% off retail." },
+        { "name": "GoodRx — Lupron Depot", "url": "https://www.goodrx.com/lupron-depot", "type": "distributor", "note": "Brand-name Lupron Depot price comparison." },
+        { "name": "IVFPharmacy — Lupron Depot", "url": "https://www.ivfpharmacy.com/drug/lupron-depot/", "type": "pharmacy", "note": "IVF specialty pharmacy." }
+      ],
+      "uk": [
+        { "name": "Takeda — Prostap SR", "url": "https://www.takeda.com/en-gb/", "type": "pharmacy", "note": "UK brand of leuprorelin acetate (Takeda)." }
+      ]
+    },
+    "goserelin": {
+      "us": [
+        { "name": "GoodRx — Zoladex", "url": "https://www.goodrx.com/zoladex", "type": "distributor", "note": "US price comparison." }
+      ],
+      "uk": [
+        { "name": "AstraZeneca — Zoladex", "url": "https://www.azmedical.uk/", "type": "pharmacy", "note": "Manufacturer of UK Zoladex (goserelin)." }
+      ]
+    },
+    "desmopressin": {
+      "us": [
+        { "name": "Medix Pharmacy", "url": "https://www.medixrx.com/products/ddavp/", "type": "pharmacy", "note": "DDAVP from $0.82/tablet via international sourcing." },
+        { "name": "Canada Pharmacy — DDAVP", "url": "https://www.canadamedpharmacy.com/drug/ddavp", "type": "pharmacy", "note": "Canadian online pharmacy serving US customers." },
+        { "name": "PharmacyChecker — Desmopressin", "url": "https://www.pharmacychecker.com/desmopressin/0.2+mg/", "type": "distributor", "note": "US + international price comparison." }
+      ],
+      "uk": [
+        { "name": "Pharmacy Planet — Desmopressin", "url": "https://www.pharmacyplanet.com/desmopressin-tablets.html", "type": "pharmacy", "note": "UK online pharmacy; tablets, melts, spray." },
+        { "name": "Dock Pharmacy", "url": "https://www.dockpharmacy.com/product/desmopressin-tablet-100-mcg-tab-pack-of-90/", "type": "pharmacy", "note": "0.1mg tablets, 90-pack." },
+        { "name": "Hyperdrug", "url": "https://hyperdrug.co.uk/desmopressin-tablets-0-2mg-pack-of-30/", "type": "pharmacy", "note": "0.2mg tablets, 30-pack." }
+      ]
+    },
+    "oxytocin": {
+      "us": [
+        { "name": "PushHealth — Oxytocin", "url": "https://www.pushhealth.com/drugs/oxytocin", "type": "distributor", "note": "Telehealth Rx for compounded oxytocin forms." },
+        { "name": "Invigor Medical", "url": "https://invigormedical.com/plans/buy-oxytocin/", "type": "pharmacy", "note": "Compounded oxytocin via licensed pharmacy partners." },
+        { "name": "Empower Pharmacy — Oxytocin Nasal", "url": "https://www.empowerpharmacy.com/compounding-pharmacy/oxytocin-nasal-spray/", "type": "pharmacy", "note": "Major US compounding pharmacy." }
+      ]
+    },
+    "bremelanotide": {
+      "us": [
+        { "name": "Vyleesi.com (BlinkRx)", "url": "https://vyleesi.com/", "type": "pharmacy", "note": "Manufacturer-direct via BlinkRx; $0 insured / $99 4-dose cash." },
+        { "name": "GoodRx — Vyleesi", "url": "https://www.goodrx.com/vyleesi", "type": "distributor", "note": "Price comparison + coupons." },
+        { "name": "PushHealth — Bremelanotide", "url": "https://www.pushhealth.com/drugs/bremelanotide", "type": "distributor", "note": "Telehealth Rx pathway." }
+      ]
+    },
+    "setmelanotide": {
+      "us": [
+        { "name": "Imcivree (Rhythm Pharma)", "url": "https://www.imcivree.com/", "type": "pharmacy", "note": "Manufacturer-direct; rare-disease specialty Rx." },
+        { "name": "Drugs.com — Imcivree", "url": "https://www.drugs.com/price-guide/imcivree", "type": "distributor", "note": "Price guide + assistance programs." }
+      ]
+    },
+    "dulaglutide": {
+      "us": [
+        { "name": "Trulicity (Eli Lilly)", "url": "https://www.trulicity.com/", "type": "pharmacy", "note": "Manufacturer-direct prescribing info + savings." },
+        { "name": "PushHealth — Trulicity", "url": "https://www.pushhealth.com/drugs/trulicity", "type": "distributor", "note": "Telehealth Rx pathway." },
+        { "name": "PharmacyChecker — Trulicity", "url": "https://www.pharmacychecker.com/trulicity/", "type": "distributor", "note": "US + international price comparison." }
+      ],
+      "uk": [
+        { "name": "Treated UK", "url": "https://uk.treated.com/diabetes/trulicity", "type": "pharmacy", "note": "Next-day delivery via UK pharmacy; T2D Rx." },
+        { "name": "Pharmacy Planet — Trulicity", "url": "https://www.pharmacyplanet.com/trulicity.html", "type": "pharmacy", "note": "UK online assessment + delivery." },
+        { "name": "Dock Pharmacy — Trulicity", "url": "https://www.dockpharmacy.com/product/trulicity-1-5mg-0-5ml-4-pen/", "type": "pharmacy", "note": "1.5mg pre-filled pens, 4-pack." }
+      ]
+    },
+    "linaclotide": {
+      "us": [
+        { "name": "PlushCare — Linzess", "url": "https://plushcare.com/linzess-linaclotide-prescription", "type": "distributor", "note": "Online Rx via licensed providers." },
+        { "name": "Blink Health — Linzess", "url": "https://www.blinkhealth.com/linzess", "type": "distributor", "note": "Digital pharmacy with discount pricing." },
+        { "name": "SingleCare — Linzess", "url": "https://www.singlecare.com/prescription/linzess", "type": "distributor", "note": "Discount card across 35,000+ US pharmacies." }
+      ]
+    },
+    "plecanatide": {
+      "us": [
+        { "name": "Trulance.com", "url": "https://www.trulance.com/", "type": "pharmacy", "note": "Manufacturer-direct (Salix Pharmaceuticals)." },
+        { "name": "Blink Health — Trulance", "url": "https://www.blinkhealth.com/", "type": "distributor", "note": "Discount pricing for brand-only drug." },
+        { "name": "Drugs.com — Trulance", "url": "https://www.drugs.com/price-guide/trulance", "type": "distributor", "note": "Price guide + savings programs." }
+      ]
+    },
+    "cetrorelix": {
+      "us": [
+        { "name": "Merck — Cetrotide", "url": "https://hcp.merckgroup.com/en/fertility/portfolio/therapeutics/cetrotide.html", "type": "pharmacy", "note": "Manufacturer-direct fertility specialty (Merck KGaA)." },
+        { "name": "IVFPharmacy — Cetrotide", "url": "https://www.ivfpharmacy.com/drug/cetrotide/", "type": "pharmacy", "note": "IVF specialty pharmacy; international sourcing." },
+        { "name": "New Era Pharmacy", "url": "https://newerapharmacy.com/fertility/medications/cetrotide/", "type": "pharmacy", "note": "Fertility specialty pharmacy." }
+      ]
+    },
+    "ganirelix": {
+      "us": [
+        { "name": "IVFPharmacy — Ganirelix", "url": "https://www.ivfpharmacy.com/drug/ganirelix/", "type": "pharmacy", "note": "Orgalutran; up to 80% cheaper than retail." },
+        { "name": "GoodRx — Ganirelix", "url": "https://www.goodrx.com/ganirelix", "type": "distributor", "note": "Coupons drop price to $44-65/syringe." },
+        { "name": "MedFinder — Ganirelix", "url": "https://www.medfinder.com/medication/ganirelix", "type": "distributor", "note": "Availability tracking + alternative sourcing." }
+      ]
+    },
+    "calcitonin-salmon": {
+      "us": [
+        { "name": "CVS Pharmacy — Calcitonin-Salmon", "url": "https://www.cvs.com/drug-info/calcitonin-salmon/200-act/spr/72162212803", "type": "pharmacy", "note": "Fortical/Miacalcin nasal spray 200 IU." },
+        { "name": "Drugs.com — Calcitonin", "url": "https://www.drugs.com/price-guide/calcitonin", "type": "distributor", "note": "Price guide + coupons." },
+        { "name": "RxList — Calcitonin Nasal", "url": "https://www.rxlist.com/calcitonin_nasal/generic-drug.htm", "type": "distributor", "note": "Drug info + pharmacy locator." }
+      ]
+    },
+    "teduglutide": {
+      "us": [
+        { "name": "Gattex.com", "url": "https://www.gattex.com/", "type": "pharmacy", "note": "Manufacturer-direct (Takeda); short bowel syndrome Rx." },
+        { "name": "Blink Health — Gattex", "url": "https://www.blinkhealth.com/gattex-one-vial", "type": "distributor", "note": "Digital pharmacy with discount pricing." },
+        { "name": "Prescription Hope — Gattex", "url": "https://prescriptionhope.com/medication/gattex-teduglutide/", "type": "distributor", "note": "Patient assistance program." }
+      ]
+    },
+    "carfilzomib": {
+      "us": [
+        { "name": "Kyprolis (Amgen)", "url": "https://www.kyprolis.com/", "type": "pharmacy", "note": "Manufacturer-direct (Amgen); multiple myeloma IV." },
+        { "name": "BuyAndBill — Kyprolis", "url": "https://buyandbill.com/kyprolis-j9047/", "type": "distributor", "note": "Specialty drug pricing for HCP J9047 code." }
+      ]
+    },
+    "bivalirudin": {
+      "us": [
+        { "name": "Drugs.com — Bivalirudin", "url": "https://www.drugs.com/price-guide/bivalirudin", "type": "distributor", "note": "Price guide; hospital-administered IV anticoagulant." },
+        { "name": "GoodRx — Bivalirudin", "url": "https://www.goodrx.com/bivalirudin/what-is", "type": "distributor", "note": "US price information." }
+      ]
+    },
+    "eptifibatide": {
+      "us": [
+        { "name": "MySalve — Integrilin", "url": "https://mysalve.com/shop/integrillin-eptifibatide-", "type": "pharmacy", "note": "Hospital-grade Integrilin (eptifibatide)." },
+        { "name": "Meitheal Pharmaceuticals", "url": "https://www.meithealpharma.com/our-products/70", "type": "pharmacy", "note": "Generic eptifibatide injection manufacturer." }
+      ]
     }
   }
 }
